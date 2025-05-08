@@ -1,0 +1,182 @@
+Site_Code,Block_Code,Treatment_Code,Vial_Code,Feeding_Guild,Order,Sub_Order,Family,Sp_Code,Number,Stage,size
+Ditch,B40,Control,3,Herbivore,Coleoptera,NA,Curculionidae,Coleoptera NA Curculionidae,1,adult,4.5
+Ditch,B40,Control,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B36,Control,3,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Ditch,B40,Control,2,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Campus,B21,Control,3,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Campus,B6,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Ditch,B42,Control,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,11,larvae,1
+Campus,B11,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Ditch,B38,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Campus,B2,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B11,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B9,Control,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B16,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+rapseed,B30,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+rapseed,B28,Predator Model,3,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+rapseed,B26,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B48,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+rapseed,B31,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B4,Predator Model,3,Herbivore,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,2.5
+Construction,B35,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1.5
+Construction,B35,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Campus,B1,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B40,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,17,larvae,1
+Campus,B3,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B20,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B21,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,7,larvae,1
+Campus,B12,Predator Model,2,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,larvae,1.5
+rapseed,B30,Control,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,6,larvae,1
+Construction,B33,Control,2,Herbivore,Diptera,Nematocera,NA,Diptera Nematocera NA,1,adult,0.5
+rapseed,B27,Predator Model,3,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Ditch,B48,Control,3,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,2,pupa,1.5
+Construction,B24,Pollinator Exclusion,3,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,2,adult,2.5
+Ditch,B42,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Ditch,B43,Pollinator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1.5
+Construction,B18,Control,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,1,larvae,1
+Construction,B18,Control,2,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Ditch,B40,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,5,larvae,1
+Ditch,B36,Control,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,1,larvae,1
+Ditch,B36,Control,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,1,larvae,1.5
+Ditch,B44,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,20,larvae,1
+Ditch,B48,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B16,Control,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,5,larvae,1
+rapseed,B17,Control,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,6,larvae,1
+Construction,B14,Predator Model,2,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Campus,B1,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B45,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1
+Ditch,B36,Predator Exclusion,3,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,2,larvae,1.5
+Ditch,B36,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,7,larvae,1
+Construction,B10,Predator Exclusion,2,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Construction,B24,Pollinator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B12,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Campus,B5,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B10,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Campus,B8,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B3,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1
+Construction,B19,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+rapseed,B17,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Campus,B11,Predator Model,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,7,larvae,1
+Campus,B11,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B16,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Campus,B13,Predator Exclusion,2,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,1,larvae,2
+Campus,B13,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Campus,B13,Predator Exclusion,2,Herbivore,Hymenoptera,NA,NA,Hymenoptera NA NA,1,larvae,4
+Campus,B6,Pollinator Exclusion,2,Herbivore,Coleoptera,NA,NA,Coleoptera NA NA,1,nymph,1
+Campus,B2,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,adult,1
+Campus,B21,Control,2,Herbivore,Hemiptera,NA,Auchenorhyncha,Hemiptera NA Auchenorhyncha,1,larvae,3.5
+Construction,B18,Predator Exclusion,2,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Ditch,B40,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B11,Predator Exclusion,2,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Construction,B10,Predator Model,3,Herbivore,Coleoptera,NA,Curculionidae,Coleoptera NA Curculionidae,1,adult,6
+Ditch,B42,Pollinator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B35,Pollinator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Campus,B2,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Construction,B16,Predator Exclusion,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Campus,B6,Predator Model,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B6,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B47,Control,1,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+rapseed,B28,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Construction,B39,Control,1,Herbivore,Hymenoptera,NA,NA,Hymenoptera NA NA,1,adult,2
+Campus,B6,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1.5
+Construction,B24,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1
+Construction,B24,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,2
+Campus,B5,Pollinator Exclusion,1,Herbivore,Coleoptera,NA,Latridiidae,Coleoptera NA Latridiidae,1,adult,1
+Campus,B12,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+rapseed,B17,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Construction,B19,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Ditch,B40,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,adult,1
+Ditch,B40,Control,1,Herbivore,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,6,pupa,1.5
+Ditch,B40,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Ditch,B40,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B35,Predator Exclusion,1,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,4,larvae,2
+Campus,B9,Pollinator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1
+Ditch,B36,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B36,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Campus,B21,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B13,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,2.5
+rapseed,B23,Control,1,Herbivore,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,3.5
+Campus,B2,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Construction,B24,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,3
+Construction,B24,Predator Model,1,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Campus,B13,Control,1,Herbivore,Coleoptera,NA,Latridiidae,Coleoptera NA Latridiidae,1,adult,1.5
+Campus,B9,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,7,larvae,1
+Ditch,B38,Pollinator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1.5
+Campus,B9,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B9,Predator Model,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Ditch,B42,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,14,larvae,1
+Campus,B4,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B12,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1.5
+Ditch,B38,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Ditch,B38,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1
+Ditch,B36,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,22,larvae,1
+Ditch,B44,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,20,larvae,1
+Construction,B20,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B20,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1
+Campus,B3,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B40,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,6,larvae,1
+Construction,B14,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Ditch,B38,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B7,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Ditch,B38,Predator Model,1,Herbivore,Thysanoptera,NA,NA,Thysanoptera NA NA,1,adult,1
+Ditch,B38,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,6,larvae,1
+Campus,B5,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1.5
+Construction,B34,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B1,Predator Exclusion,1,Herbivore,Diptera,NA,Syrphidae,Diptera NA Syrphidae,1,larvae,1.5
+Construction,B20,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Campus,B21,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Ditch,B44,Control,1,Herbivore,Coleoptera,NA,Curculionidae,Coleoptera NA Curculionidae,1,adult,6
+Ditch,B44,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1
+Ditch,B37,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,7,larvae,1
+rapseed,B17,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,9,larvae,1
+rapseed,B17,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,6,larvae,1
+Construction,B34,Control,1,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Construction,B16,Control,2,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Construction,B16,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,20,larvae,1
+Construction,B16,Predator Exclusion,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,2
+Campus,B12,Predator Model,3,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,larvae,1.5
+Construction,B35,Control,3,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,2
+Construction,B14,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Ditch,B36,Predator Exclusion,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Ditch,B36,Predator Exclusion,1,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Ditch,B36,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Ditch,B48,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,10,larvae,1
+Ditch,B48,Control,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,6,pupa,1.5
+Campus,B21,Pollinator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1.5
+Construction,B18,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,pupa,4
+Construction,B14,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1.5
+Construction,B14,Predator Model,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+rapseed,B17,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,5,larvae,1
+Ditch,B43,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1.5
+Ditch,B43,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Ditch,B43,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1.5
+rapseed,B28,Predator Exclusion,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+rapseed,B26,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,5,larvae,1
+Construction,B35,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,21,larvae,1
+Construction,B35,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,adult,2
+Construction,B20,Pollinator Exclusion,1,Herbivore,Diptera,Nematocera,NA,Diptera Nematocera NA,1,adult,2
+Campus,B8,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,1
+Campus,B8,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Campus,B3,Predator Exclusion,1,Herbivore,Coleoptera,NA,Latridiidae,Coleoptera NA Latridiidae,1,adult,1
+Campus,B3,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B18,Pollinator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Construction,B18,Pollinator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1
+Construction,B34,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,1.5
+Campus,B11,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1.5
+Campus,B11,Control,1,Herbivore,Coleoptera,NA,NA,Coleoptera NA NA,1,adult,1.5
+Campus,B2,Predator Exclusion,1,Herbivore,Coleoptera,NA,NA,Coleoptera NA NA,1,adult,1.5
+Ditch,B42,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1.5
+Ditch,B42,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1
+Construction,B16,Control,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,1,pupa,1.5
+Construction,B16,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,24,larvae,1
+Ditch,B40,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,3,larvae,1
+Ditch,B38,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,adult,2
+Ditch,B40,Control,1,Parasitoid,Hymenoptera,NA,Platygastridae,Hymenoptera NA Platygastridae,6,pupa,1.5
+Ditch,B40,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,adult,1
+Ditch,B40,Control,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,6,larvae,1
+Construction,B35,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,4,larvae,1.5
+Campus,B2,Predator Exclusion,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,1,larvae,1.5
+Construction,B24,Predator Model,1,Herbivore,Diptera,NA,Tephritidae,Diptera NA Tephritidae,1,adult,2.5
+Campus,B13,Control,1,Herbivore,Coleoptera,NA,NA,Coleoptera NA NA,1,adult,1.5
+Construction,B19,Predator Model,1,Herbivore,Diptera,NA,Cecidomyiidae,Diptera NA Cecidomyiidae,2,larvae,2
+Campus,B5,Pollinator Exclusion,1,Herbivore,Hemiptera,NA,NA,Hemiptera NA NA,1,adult,1.5

@@ -1,0 +1,650 @@
+Common_Name,Visited_Flowers,Key,Feeding_Guild,Pollination,Order,Family,Genus,Species,Species_Code
+common red soldier beetle,1,uuid:7dc5638d-ae9f-4702-8a64-7feebd821ec2,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,,Rhagonycha Sp1
+small hive beetle,1,uuid:7dc5638d-ae9f-4702-8a64-7feebd821ec2,Herbivore,Yes,Colleoptera,Nitidulidae,Aethina,,Aethina Sp1
+small hive beetle,1,uuid:635634a4-3850-4e15-a693-abb6770eae97,Herbivore,Yes,Colleoptera,Nitidulidae,Aethina,,Aethina Sp1
+robber fly,2,uuid:beaa662a-eb34-4859-8148-9c6ac2884442,Predator,Yes,Diptera,Asillidae,,,Asillidae Sp1
+robber fly,2,uuid:42bfbf2d-b399-4074-98e6-f79bb1485a02,Predator,Yes,Diptera,Asillidae,,,Asillidae Sp1
+,,uuid:fd021a2f-e9ea-4955-bfe7-97c74cde7a14,,,,,,,
+,,uuid:e5da18c1-5fa2-4b57-85ce-4b5f8d5fd9a3,,,,,,,
+Sun fly,2,uuid:49d79ee7-6c7e-4a88-9c5c-c0045a8a82e3,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:49d79ee7-6c7e-4a88-9c5c-c0045a8a82e3,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+robber fly,1,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Predator,Yes,Diptera,Asillidae,,,Asillidae Sp1
+Honey bee,3,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Fly,1,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Honey bee,2,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Fly,1,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Honey bee,2,uuid:f3b588af-c168-49e7-91fa-90c169919af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Miner bee,1,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,Herbivore,Yes,Hymenoptera,Andrenidae,Andrena,,Andrena Sp1
+Honey bee,1,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,,,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Dagger fly,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Predator,Yes,Diptera,Empididae,,,Empididae Sp1
+Honey bee,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,2,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Hoverfly,1,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,2,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,1,uuid:300788d2-8368-4152-9224-f4d362e4e480,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,1,uuid:300788d2-8368-4152-9224-f4d362e4e480,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,2,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common flesh fly,2,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Honey bee,1,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,4,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:d423b41f-5d08-4b72-a61c-f7ef2aa4cd46,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:d423b41f-5d08-4b72-a61c-f7ef2aa4cd46,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,2,uuid:d423b41f-5d08-4b72-a61c-f7ef2aa4cd46,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+,,uuid:d27e6f05-4fa2-4af0-95d4-1a313cca5c20,,,,,,,
+Honey bee,6,uuid:d538de53-c183-4f7d-8db0-c40737d1a022,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Dagger fly,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Empididae,,,Empididae Sp1
+Hoverfly,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Dagger fly,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Empididae,,,Empididae Sp1
+Hoverfly,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Dagger fly,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Empididae,,,Empididae Sp1
+Hoverfly,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+dark-winged fungus gnats ,1,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,Herbivore,Yes,Diptera,Sciaridae,,,Sciaridae Sp1
+common flesh fly,1,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,No,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Honey bee,1,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,5,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,6,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,,uuid:1d24e8db-8882-440d-9807-6ee3b3e1d0fb,,,,,,,
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Fly,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,No,Diptera,,,,Diptera Sp1
+Honey bee,3,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Dagger fly,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Diptera,Empididae,,,Empididae Sp1
+common flesh fly,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e37fbc09-0b59-4784-93ec-83b87e0defcd,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common greenbottle,1,uuid:e37fbc09-0b59-4784-93ec-83b87e0defcd,Herbivore,Yes,Diptera," 	Calliphoridae",Lucilia ,caesar,Lucilia  caesar
+Honey bee,1,uuid:e37fbc09-0b59-4784-93ec-83b87e0defcd,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c8d8c2a8-98b5-4906-9371-45cb10cfd0a4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:f96878e9-08ff-40c0-a5b3-cda35595ed63,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+common flesh fly,2,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Hoverfly,2,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+,,uuid:83ecd052-4dbe-4c5a-b09f-d7c08d3bffc5,,,,,,,
+Honey bee,1,uuid:c9934c73-8c41-4da2-8bdc-771fefdad3af,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c9934c73-8c41-4da2-8bdc-771fefdad3af,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,,uuid:d7c9e650-43c8-4a73-92da-a8d9d2d9b871,,,,,,,
+,,uuid:c6050db9-a5e2-48aa-b738-1d9096f9c69f,,,,,,,
+Hoverfly,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Carder bee,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Hymenoptera,Megachilidae,Anthidium,,Anthidium Sp1
+Honey bee,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Long hoverfly,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:391eea9a-3688-4153-82c6-e4ac8991db7d,,,,,,,
+Honey bee,3,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:087e3a94-8b02-45de-8afc-378e577d49c4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:087e3a94-8b02-45de-8afc-378e577d49c4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:087e3a94-8b02-45de-8afc-378e577d49c4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:087e3a94-8b02-45de-8afc-378e577d49c4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:585e2ce8-b441-4c55-8449-28835ac09f45,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Long hoverfly,3,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Long hoverfly,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Long hoverfly,3,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Long hoverfly,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+,0,uuid:eec4f100-0e9c-4271-969d-ae09dacd32da,,,,,,,
+Long hoverfly,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Mediterranean spotted chafer,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Fly,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,No,Diptera,,,,Diptera Sp1
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,3,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common greenbottle,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Diptera," 	Calliphoridae",Lucilia ,caesar,Lucilia  caesar
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,5,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Pieridae,2,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Mediterranean spotted chafer,1,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Honey bee,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,2,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:e9413c69-ff34-412d-87b8-2bc71523b321,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,3,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,5,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,4,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,7,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,3,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Long hoverfly,1,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Sun fly,4,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Fly,1,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Sun fly,3,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Fly,4,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Fly,3,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Honey bee,1,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Fly,1,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Pieridae,1,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Honey bee,4,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Hymenoptera,,apis,melifera,apis melifera
+Sun fly,6,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,5,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Hoverfly,1,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,6,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,3,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,2,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common flesh fly,2,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Honey bee,1,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Hoverfly,1,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,1,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+,0,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,,,,,,,
+Honey bee,1,uuid:b04795b5-98fa-47cb-b35f-4e78078bfd33,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Pieridae,1,uuid:fe0b0f16-1764-4fdf-96bd-d577a83643cc,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Sun fly,2,uuid:fe0b0f16-1764-4fdf-96bd-d577a83643cc,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:fe0b0f16-1764-4fdf-96bd-d577a83643cc,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,2,uuid:6fe3901d-e236-40f3-b8f6-58993d63bff5,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:6fe3901d-e236-40f3-b8f6-58993d63bff5,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:6fe3901d-e236-40f3-b8f6-58993d63bff5,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Pieridae,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Sun fly,4,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Hoverfly,3,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Very big black fly with Redruth and white small dots on body,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,,,,,
+Honey bee,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Hoverfly,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+dark-winged fungus gnats,1,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,Herbivore,Yes,Diptera,Sciaridae,,,Sciaridae Sp1
+Honey bee,2,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,6,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+,,,Herbivore,Yes,Lepidoptera,Nymphaleidae,Aglais,urticae,Aglais urticae
+Pieridae,1,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Sun fly,5,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,5,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,3,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Nymphalidae,1,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Lepidoptera,Nymphalidae,Aglais,urticae,Aglais urticae
+Hoverfly,3,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,3,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common flesh fly,1,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Hoverfly,3,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Mediterranean spotted chafer,1,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Hoverfly,2,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+True weevil,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Colleoptera,Curculionidae,,,Curculionidae Sp1
+Pieridae,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Honey bee,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2ec686d8-a527-472a-8055-86f311d1508e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:249a2972-52b3-48fc-a7e6-cb0d3929be22,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,6,uuid:249a2972-52b3-48fc-a7e6-cb0d3929be22,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,4,uuid:249a2972-52b3-48fc-a7e6-cb0d3929be22,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,3,uuid:08034bff-dd90-42f6-b888-79f3d60ff60f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:08034bff-dd90-42f6-b888-79f3d60ff60f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:08034bff-dd90-42f6-b888-79f3d60ff60f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:9dfee514-87c6-4f59-b6c2-2af077a7b1b3,,,,,,,
+Honey bee,3,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,5,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+common flesh fly,1,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Cuckoo bee,2,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Hymenoptera,Apidae,Nomanidae,,Nomanidae Sp1
+common flesh fly,1,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Hoverfly,1,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+common flesh fly,2,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Tawny mining bee,1,uuid:95d1fe02-a8f2-43ed-90ff-2258c8326ce6,Herbivore,Yes,Hymenoptera,Andrenidae,Andrena,,Andrena Sp1
+Honey bee,2,uuid:76e653e7-35b0-4a98-b863-96c7bb68c31d,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:5053ca75-0ee8-4373-bf91-0cf1a7999d42,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:5053ca75-0ee8-4373-bf91-0cf1a7999d42,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Hoverfly,2,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,4,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+common flesh fly,1,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Tawny mining bee,1,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Hymenoptera,Andrenidae,Andrena,,Andrena Sp1
+Hoverfly,1,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,5,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:c9e1d3d3-fded-42ab-a576-08cc9aa31ae8,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,3,uuid:23923859-391b-47b3-b979-4f640e26a10d,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Cuckoo bee,1,uuid:23923859-391b-47b3-b979-4f640e26a10d,Herbivore,Yes,Hymenoptera,Apidae,Nomanidae,,Nomanidae Sp1
+Hoverfly,2,uuid:23923859-391b-47b3-b979-4f640e26a10d,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+common red soldier beetle,1,uuid:23923859-391b-47b3-b979-4f640e26a10d,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+Hoverfly,1,uuid:6d2256fa-9aeb-43c6-9359-e51ebc1172ac,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+common red soldier beetle,1,uuid:b1e7fd96-2510-4285-9c49-95b556115825,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+Sun fly,1,uuid:20559b16-3c68-4edc-b4de-c82309bb9254,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Cuckoo bee,1,uuid:0e5ab6f2-b8f8-46a9-97b0-312d27750138,Herbivore,Yes,Hymenoptera,Apidae,Bombus,,Bombus Sp1
+small hive beetle,1,uuid:0e5ab6f2-b8f8-46a9-97b0-312d27750138,Herbivore,Yes,Colleoptera,Nitidulidae,,,Nitidulidae Sp1
+Long hoverfly,1,uuid:703360a8-e8b5-4387-a665-079714f09bcb,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,2,uuid:703360a8-e8b5-4387-a665-079714f09bcb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common red soldier beetle,2,uuid:703360a8-e8b5-4387-a665-079714f09bcb,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+Honey bee,2,uuid:703360a8-e8b5-4387-a665-079714f09bcb,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common red soldier beetle,2,uuid:703360a8-e8b5-4387-a665-079714f09bcb,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+common red soldier beetle,1,uuid:42a936cc-68a3-4653-9496-81a93d86ef5e,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+common red soldier beetle,1,uuid:42a936cc-68a3-4653-9496-81a93d86ef5e,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+common greenbottle,1,uuid:42a936cc-68a3-4653-9496-81a93d86ef5e,Herbivore,Yes,Diptera," 	Calliphoridae",Lucilia ,caesar,Lucilia  caesar
+Honey bee,1,uuid:42a936cc-68a3-4653-9496-81a93d86ef5e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,2,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Cuckoo bee,3,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Hymenoptera,Apidae,Bombus,,Bombus Sp1
+Sun fly,1,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Hoverfly,2,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Sun fly,2,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Pieridae,1,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Long hoverfly,1,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,4,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,4,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,2,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Sun fly,1,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+small hive beetle,2,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Colleoptera,Nitidulidae,,,Nitidulidae Sp1
+Honey bee,1,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Pieridae,1,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Honey bee,2,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:24932991-097b-40af-8de2-68f8bd8c8c01,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Mediterranean spotted chafer,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Fly,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Diptera,,,,Diptera Sp1
+Honey bee,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Cuckoo bee,2,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Bombus,,Bombus Sp1
+Long hoverfly,3,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Sun fly,2,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,2,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,5,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,5,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Pieridae,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Lepidoptera,Pieridae,Pieris,rapae,Pieris rapae
+Sun fly,2,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,3,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,4,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,2,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,5,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:c0897f5c-0505-473a-9667-46f0a1192295,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Mediterranean spotted chafer,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:611402f4-0bee-4e61-aff9-67c6a97c6865,,,,,,,
+Honey bee,1,uuid:309ffade-c50f-4e18-9935-465de0b9295e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:309ffade-c50f-4e18-9935-465de0b9295e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:309ffade-c50f-4e18-9935-465de0b9295e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:309ffade-c50f-4e18-9935-465de0b9295e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:309ffade-c50f-4e18-9935-465de0b9295e,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,1,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Hoverfly,1,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Long hoverfly,1,uuid:1f5d8ce9-1a89-4a3b-b645-ca99600677d4,Herbivore,Yes,Diptera,Syrphidae,Sphaerophoria,scripta,Sphaerophoria scripta
+Honey bee,1,uuid:1f5d8ce9-1a89-4a3b-b645-ca99600677d4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:4d15aca2-9fda-4145-8187-82741eab31e4,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common red soldier beetle,2,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+Honey bee,1,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,6,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,,,,,,,
+Honey bee,1,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+robber fly,1,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Predator,Yes,Diptera,Asillidae,,,Asillidae Sp1
+Honey bee,2,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+robber fly,1,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Predator,,Diptera,Asillidae,,,Asillidae Sp1
+Honey bee,2,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Dagger fly,1,uuid:ce178745-f74a-412d-9975-36dba01c75aa,Herbivore,Yes,Diptera,Empididae,,,Empididae Sp1
+Honey bee,2,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,8,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,6,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,3,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Hoverfly,2,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,6,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,3,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Flesh fly red band,5,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Honey bee,6,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,5,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Hoverfly,2,uuid:619f3957-46b0-41c9-abfe-dfae972a766b,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,3,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,,,,,,,
+common flesh fly,2,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Diptera,Sarcophagidae,Sarcophaga,,Sarcophaga Sp1
+Flesh fly red band,1,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Honey bee,2,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,4,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Honey bee,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Honey bee,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Honey bee,2,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,1,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+Hoverfly,1,uuid:4ac5bcbb-40cb-4a93-8b53-f7434096b902,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Flesh fly red band,1,uuid:4ac5bcbb-40cb-4a93-8b53-f7434096b902,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+,0,uuid:2861ab4c-c32a-4842-90a1-d732f9f99ffd,,,,,,,
+Mediterranean spotted chafer,1,uuid:5abc9a1e-4fc7-47ce-aebd-92c23c482c63,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Honey bee,1,uuid:5abc9a1e-4fc7-47ce-aebd-92c23c482c63,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:5abc9a1e-4fc7-47ce-aebd-92c23c482c63,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:48b6cb60-6d75-4fca-8b71-cc4d81a25195,,,,,,,
+Mediterranean spotted chafer,1,uuid:f78cf5dc-eb10-4c34-ad2a-65749d1f6e3b,Herbivore,Yes,Colleoptera,Scarabaeidae,Oxythyrea,funesta,Oxythyrea funesta
+Honey bee,2,uuid:f78cf5dc-eb10-4c34-ad2a-65749d1f6e3b,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:d877d875-2692-4ce7-96e0-2e3f9002e51c,,,,,,,
+Honey bee,1,uuid:7484037e-b472-4dbe-bc34-e26f3711da82,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7484037e-b472-4dbe-bc34-e26f3711da82,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7484037e-b472-4dbe-bc34-e26f3711da82,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:7484037e-b472-4dbe-bc34-e26f3711da82,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:8da930ea-f708-4ed6-a240-5a15beb403f7,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:8da930ea-f708-4ed6-a240-5a15beb403f7,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+sun fly,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+sun fly,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Hoverfly,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Diptera,Syrphidae,,,Syrphidae Sp1
+Honey bee,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+sun fly,1,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+sun fly,1,uuid:3d662c92-7f18-4297-9822-9bd7e918fc0a,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+,0,uuid:dd248aae-e1bc-435b-90e3-dc102529e396,,,,,,,
+,0,uuid:ea57ede8-9c32-4203-bc02-d69f27a6fc17,,,,,,,
+sun fly,1,uuid:73cd7587-b4c6-4cdc-8e79-99414e4a313f,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+sun fly,3,uuid:0f91b14f-1b2d-4f57-9094-ff2807c74f36,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+common red soldier beetle,1,uuid:0f91b14f-1b2d-4f57-9094-ff2807c74f36,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+,0,uuid:68d40d79-c0ca-4011-a9a0-5c233c0180f5,,,,,,,
+Honey bee,3,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+sun fly,1,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Small carpenter bee,1,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Ceratina,,Ceratina Sp1
+Honey bee,2,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,2,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Flesh fly red band,1,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,Herbivore,Yes,Diptera,Sarcophagidae,,,Sarcophagidae Sp1
+sun fly,1,uuid:7324be71-e006-4533-aafe-355df5c22db6,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+sun fly,1,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+sun fly,2,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,3,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+common red soldier beetle,1,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Predator,Yes,Colleoptera,Cantharidae,Rhagonycha,fulva,Rhagonycha fulva
+Carder bee,1,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,Herbivore,Yes,Hymenoptera,Megachilidae,Anthidium,,Anthidium Sp1
+,0,uuid:db619352-617d-443c-9820-0962585a3523,,,,,,,
+Honey bee,1,uuid:9cf60115-c68c-443c-9293-2c1e6bef4549,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:676a8575-8480-4cf7-85da-633ed02582b8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:676a8575-8480-4cf7-85da-633ed02582b8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:676a8575-8480-4cf7-85da-633ed02582b8,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:30cf3665-3164-4a79-b33b-4250857b9250,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:30cf3665-3164-4a79-b33b-4250857b9250,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:30cf3665-3164-4a79-b33b-4250857b9250,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Honey bee,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+Sun fly,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Sun fly,1,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,Herbivore,Yes,Diptera,Syrphidae,Helophilus,pendulus,Helophilus pendulus
+Honey bee,1,uuid:ea09d5b3-ac9c-482b-88da-313bea891672,Herbivore,Yes,Hymenoptera,Apidae,Apis,melifera,Apis melifera
+,0,uuid:589c0a0e-2e48-4865-b2c4-5acfda49550a,,,,,,,

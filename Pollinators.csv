@@ -1,0 +1,121 @@
+Start,End,Site_Code,Block_Code,Treatment_Code,Number_openFlowerhead,Remarks,Instance_ID,Instance_Name,Key
+2/7/2022 7:30,2/7/2022 7:42,ditch,b42,Control,7,Not sure if both the beetles are pollinators,uuid:7dc5638d-ae9f-4702-8a64-7feebd821ec2,7/2/2022,uuid:7dc5638d-ae9f-4702-8a64-7feebd821ec2
+2/7/2022 7:42,2/7/2022 7:58,ditch,b42,Exclude predators,4, ,uuid:635634a4-3850-4e15-a693-abb6770eae97,7/2/2022,uuid:635634a4-3850-4e15-a693-abb6770eae97
+2/7/2022 7:58,2/7/2022 8:07,ditch,b42,Predator model,4,"Out of 4, 3 flowerheads are old almost dry but pollinator visited one of the dried flowerhead",uuid:beaa662a-eb34-4859-8148-9c6ac2884442,7/2/2022,uuid:beaa662a-eb34-4859-8148-9c6ac2884442
+2/7/2022 8:12,2/7/2022 8:30,ditch,b46,Predator model,4,"Couldn't capture video, visit duration very short",uuid:42bfbf2d-b399-4074-98e6-f79bb1485a02,7/2/2022,uuid:42bfbf2d-b399-4074-98e6-f79bb1485a02
+2/7/2022 8:31,2/7/2022 8:32,ditch,b46,Control,1,"Observed together with mod, close by, no visits, started 813 finished 832",uuid:fd021a2f-e9ea-4955-bfe7-97c74cde7a14,7/2/2022,uuid:fd021a2f-e9ea-4955-bfe7-97c74cde7a14
+2/7/2022 8:34,2/7/2022 8:45,ditch,b46,Exclude predators,0,"No visitors, no flowerheads, only buds. Ladybirds are present, many aphids",uuid:e5da18c1-5fa2-4b57-85ce-4b5f8d5fd9a3,7/2/2022,uuid:e5da18c1-5fa2-4b57-85ce-4b5f8d5fd9a3
+2/7/2022 8:47,2/7/2022 9:01,ditch,b37,Exclude predators,2,"Picture of fly is also in camera, honey bee visit was very short, it quickly flew away",uuid:49d79ee7-6c7e-4a88-9c5c-c0045a8a82e3,7/2/2022,uuid:49d79ee7-6c7e-4a88-9c5c-c0045a8a82e3
+2/7/2022 9:01,2/7/2022 9:17,ditch,b37,Predator model,9, ,uuid:f3b588af-c168-49e7-91fa-90c169919af1,7/2/2022,uuid:f3b588af-c168-49e7-91fa-90c169919af1
+2/7/2022 9:25,2/7/2022 9:35,ditch,b37,Control,5, ,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade,7/2/2022,uuid:d2aaef57-bdba-46bb-b8d2-f216e5a32ade
+2/7/2022 9:44,2/7/2022 9:58,ditch,b47,Exclude predators,4,One flowerhead mature,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab,7/2/2022,uuid:b74edf6a-e1d4-49fe-9eeb-3681bb37dbab
+2/7/2022 9:58,2/7/2022 10:11,ditch,b45,Predator model,3,One flowerhead mature,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198,7/2/2022,uuid:d9ecb1c5-b512-4f3e-864b-25b432595198
+2/7/2022 10:20,2/7/2022 10:41,ditch,b45,Exclude predators,1,Videos in camera,uuid:300788d2-8368-4152-9224-f4d362e4e480,7/2/2022,uuid:300788d2-8368-4152-9224-f4d362e4e480
+2/7/2022 10:42,2/7/2022 10:54,ditch,b47,Predator model,4, ,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21,7/2/2022,uuid:83fe480a-69cf-4501-b0b5-2fc8ff6fdc21
+2/7/2022 10:54,2/7/2022 11:01,ditch,b47,Control,2,"Observed together with mod, some pictures in camera, yellow black fly with orange butt is also sitting on the buds",uuid:d423b41f-5d08-4b72-a61c-f7ef2aa4cd46,7/2/2022,uuid:d423b41f-5d08-4b72-a61c-f7ef2aa4cd46
+2/7/2022 11:02,2/7/2022 11:15,ditch,b45,Control,1,"No visitors, short height plant, full of anys and only one flowerhead, one mature flower",uuid:d27e6f05-4fa2-4af0-95d4-1a313cca5c20,7/2/2022,uuid:d27e6f05-4fa2-4af0-95d4-1a313cca5c20
+3/7/2022 7:50,3/7/2022 8:04,campus,b2,Predator model,34,Many Flowerheads are already mature,uuid:d538de53-c183-4f7d-8db0-c40737d1a022,7/3/2022,uuid:d538de53-c183-4f7d-8db0-c40737d1a022
+3/7/2022 8:05,3/7/2022 8:23,campus,b2,Control,20,Some photos of pollinators from near by plants in camera,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,7/3/2022,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24
+3/7/2022 8:05,3/7/2022 8:23,campus,b2,Control,20,Some photos of pollinators from near by plants in camera,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,7/3/2022,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24
+3/7/2022 8:05,3/7/2022 8:23,campus,b2,Control,20,Some photos of pollinators from near by plants in camera,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24,7/3/2022,uuid:569a09f6-b24f-41e8-9a07-65bfb9127a24
+3/7/2022 8:24,3/7/2022 8:43,campus,b2,Exclude predators,16, ,uuid:39f184f8-9039-4bed-a027-ae41aee183e9,7/3/2022,uuid:39f184f8-9039-4bed-a027-ae41aee183e9
+3/7/2022 8:46,3/7/2022 9:03,campus,b5,Predator model,8,"8 mature flowerheads, besides other",uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0,7/3/2022,uuid:4a09f723-9dc0-4481-8547-7fcd55e5bff0
+3/7/2022 9:04,3/7/2022 9:05,campus,b5,Control,0,"Observed together with mod, no visitors, no flowerheads. Buds present, 2 mature flowerheads,  dried and wet due to rain",uuid:1d24e8db-8882-440d-9807-6ee3b3e1d0fb,7/3/2022,uuid:1d24e8db-8882-440d-9807-6ee3b3e1d0fb
+3/7/2022 9:05,3/7/2022 10:27,campus,b5,Exclude predators,4,"7 flowerheads mature. This block is repeat of by, replace this with b49",uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39,7/3/2022,uuid:24a997f8-6bfa-4774-ad6d-cea133b1db39
+3/7/2022 9:27,3/7/2022 9:43,campus,b2,Predator model,3,1 floqerhead comwtwly mature others will soon mature,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb,7/3/2022,uuid:56a0d67e-08ca-40da-9b54-f2e9875535fb
+3/7/2022 10:09,3/7/2022 10:27,campus,b2,Control,2,"Observed with mod, close by, almost all flowerheads are dry and mature, in collection stage. This block is a repeat of b2, replace this with b49",uuid:e37fbc09-0b59-4784-93ec-83b87e0defcd,7/3/2022,uuid:e37fbc09-0b59-4784-93ec-83b87e0defcd
+3/7/2022 10:11,3/7/2022 10:26,campus,b2,Exclude predators,3,"Observed with mod, dry mature flowerheads. This block is repeat by, replace it with b49",uuid:c8d8c2a8-98b5-4906-9371-45cb10cfd0a4,7/3/2022,uuid:c8d8c2a8-98b5-4906-9371-45cb10cfd0a4
+6/7/2022 8:02,6/7/2022 8:15,campus,b13,Control,3,17 flowerheads mature. 5 collected,uuid:f96878e9-08ff-40c0-a5b3-cda35595ed63,7/6/2022,uuid:f96878e9-08ff-40c0-a5b3-cda35595ed63
+6/7/2022 8:19,6/7/2022 8:33,campus,b13,Predator model,6,5 flowerhead collected,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17,7/6/2022,uuid:046eeb9f-72f9-41ff-b19e-ae12fb1c8b17
+6/7/2022 8:36,6/7/2022 8:36,campus,b13,Exclude predators,0,"No visitors, observed with mod, all flowerheads mature, 5 collected",uuid:83ecd052-4dbe-4c5a-b09f-d7c08d3bffc5,7/6/2022,uuid:83ecd052-4dbe-4c5a-b09f-d7c08d3bffc5
+6/7/2022 8:41,6/7/2022 8:55,campus,b6,Predator model,2,5 flowerheads collected,uuid:c9934c73-8c41-4da2-8bdc-771fefdad3af,7/6/2022,uuid:c9934c73-8c41-4da2-8bdc-771fefdad3af
+6/7/2022 8:55,6/7/2022 8:56,campus,b6,Control,1,"No visitor, observed with mod, all flowerheads mature, 5 collected",uuid:d7c9e650-43c8-4a73-92da-a8d9d2d9b871,7/6/2022,uuid:d7c9e650-43c8-4a73-92da-a8d9d2d9b871
+6/7/2022 8:56,6/7/2022 8:58,campus,b6,Exclude predators,1,"No visitors,  observed with mod and nat, tiny plant with 4 fkowerheads out of which only 2 mature, 1 open and other destroyed",uuid:c6050db9-a5e2-48aa-b738-1d9096f9c69f,7/6/2022,uuid:c6050db9-a5e2-48aa-b738-1d9096f9c69f
+6/7/2022 9:06,6/7/2022 9:22,campus,b1,Predator model,2,5 flowerheads collected,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1,7/6/2022,uuid:341bcaca-d4b1-4d11-a2ee-0e8a757579d1
+6/7/2022 9:22,6/7/2022 9:23,campus,b1,Exclude predators,2,"No visitors, observed with mod, 2 flowerheads badly damaged, others matured 5 collected",uuid:391eea9a-3688-4153-82c6-e4ac8991db7d,7/6/2022,uuid:391eea9a-3688-4153-82c6-e4ac8991db7d
+6/7/2022 9:29,6/7/2022 9:43,campus,b1,Control,8,5 flowerheads collected,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6,7/6/2022,uuid:d6b5aa40-845a-47b5-a742-c7b3a172f5a6
+6/7/2022 9:44,6/7/2022 10:02,campus,b9,Predator model,2,"11 flowerheads mature, needs to be collected",uuid:087e3a94-8b02-45de-8afc-378e577d49c4,7/6/2022,uuid:087e3a94-8b02-45de-8afc-378e577d49c4
+6/7/2022 10:02,6/7/2022 10:15,campus,b9,Exclude predators,1,"7 flowerheads mature, needs collection",uuid:585e2ce8-b441-4c55-8449-28835ac09f45,7/6/2022,uuid:585e2ce8-b441-4c55-8449-28835ac09f45
+6/7/2022 10:15,6/7/2022 10:21,campus,b9,Control,8,"Observed with pred, and additioy few minutes, 8 overheads mature, needs collection",uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,7/6/2022,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a
+6/7/2022 10:15,6/7/2022 10:21,campus,b9,Control,8,"Observed with pred, and additioy few minutes, 8 overheads mature, needs collection",uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a,7/6/2022,uuid:99c243f9-9da7-4bcb-b1b5-c4b437c1f61a
+6/7/2022 10:24,6/7/2022 10:37,campus,b12,Predator model,11,"13 flowerheads mature, needs collection",uuid:e9413c69-ff34-412d-87b8-2bc71523b321,7/6/2022,uuid:e9413c69-ff34-412d-87b8-2bc71523b321
+6/7/2022 10:37,6/7/2022 10:38,campus,b12,Control,2,"No visitors, observed with mod, 6 mature flowerheads, needs collection",uuid:eec4f100-0e9c-4271-969d-ae09dacd32da,7/6/2022,uuid:eec4f100-0e9c-4271-969d-ae09dacd32da
+6/7/2022 10:41,6/7/2022 10:55,campus,b12,Exclude predators,7,"14 flowerheads mature, some obs done with mod",uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8,7/6/2022,uuid:b7a8025e-ca0b-40e1-a858-e1c967405da8
+6/7/2022 10:56,6/7/2022 11:12,campus,b11,Control,7,"6 flowerheads mature, needs collection",uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6,7/6/2022,uuid:9949f0c7-cb9a-413f-9d0c-78dedccb3cf6
+6/7/2022 11:14,6/7/2022 11:30,campus,b11,Exclude predators,10,More than 15 flowerheads mature,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf,7/6/2022,uuid:e56eaaa0-b22b-44ff-823d-5f3d00f63edf
+6/7/2022 11:30,6/7/2022 11:46,campus,b11,Predator model,5,5 flowerheads mature needs collection,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4,7/6/2022,uuid:c9d1becc-e023-4750-960a-a1b20fca3bd4
+6/7/2022 10:24,6/7/2022 10:37,campus,b12,Predator model,11,"13 flowerheads mature, needs collection",uuid:e9413c69-ff34-412d-87b8-2bc71523b321,7/6/2022,uuid:e9413c69-ff34-412d-87b8-2bc71523b321
+9/7/2022 8:32,9/7/2022 8:47,rapseed,b17,Predator model,16,Flowerheads mature for collection,uuid:2b30bcd3-7ed8-4989-947d-508455303f78,7/9/2022,uuid:2b30bcd3-7ed8-4989-947d-508455303f78
+9/7/2022 8:47,9/7/2022 9:02,rapseed,b17,Exclude predators,12,Flowerheads mature for collection,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1,7/9/2022,uuid:88458ef5-704a-49df-9a2e-55d61537f0c1
+9/7/2022 9:02,9/7/2022 9:17,rapseed,b17,Control,5,All flowerheads mature,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49,7/9/2022,uuid:4b853d99-45f7-4492-a68b-e3ddf753de49
+9/7/2022 9:22,9/7/2022 9:37,rapseed,b23,Predator model,2,All flowerh3ads mature,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f,7/9/2022,uuid:baf618e7-1fed-47cf-a401-d658dbfe3f2f
+9/7/2022 9:37,9/7/2022 9:38,rapseed,b23,Control,1,"Observed with mod, all flowerheads mature",uuid:b04795b5-98fa-47cb-b35f-4e78078bfd33,7/9/2022,uuid:b04795b5-98fa-47cb-b35f-4e78078bfd33
+9/7/2022 9:45,9/7/2022 10:00,rapseed,b33,Control,2,All flowerheads mature,uuid:fe0b0f16-1764-4fdf-96bd-d577a83643cc,7/9/2022,uuid:fe0b0f16-1764-4fdf-96bd-d577a83643cc
+9/7/2022 10:00,9/7/2022 10:01,rapseed,b33,Exclude predators,3,Observed with Control,uuid:6fe3901d-e236-40f3-b8f6-58993d63bff5,7/9/2022,uuid:6fe3901d-e236-40f3-b8f6-58993d63bff5
+9/7/2022 10:03,9/7/2022 10:20,rapseed,b22,Control,6,Flowerheads mature,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5,7/9/2022,uuid:5425551d-3355-40a0-a932-5a9bcc1477e5
+9/7/2022 10:35,9/7/2022 10:52,rapseed,b32,Predator model,16, ,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0,7/9/2022,uuid:c846ec21-056f-49a5-a85c-76f27e625fd0
+9/7/2022 10:52,9/7/2022 10:58,rapseed,b32,Exclude predators,4,"Few obs done with mod, many photos and videos taken separately",uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2,7/9/2022,uuid:c68afd82-ee32-44f0-b7f3-ddeafc5415f2
+9/7/2022 11:00,9/7/2022 11:15,rapseed,b27,Predator model,6, ,uuid:2ec686d8-a527-472a-8055-86f311d1508e,7/9/2022,uuid:2ec686d8-a527-472a-8055-86f311d1508e
+9/7/2022 11:15,9/7/2022 11:16,rapseed,b27,Control,2,Observed with mod,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86,7/9/2022,uuid:b1d24277-509b-4b87-9ef4-b07966c78e86
+9/7/2022 11:16,9/7/2022 11:31,rapseed,b27,Exclude predators,8, ,uuid:249a2972-52b3-48fc-a7e6-cb0d3929be22,7/9/2022,uuid:249a2972-52b3-48fc-a7e6-cb0d3929be22
+12/7/2022 8:26,12/7/2022 8:42,construction,b16,Control,3,Samples collected,uuid:08034bff-dd90-42f6-b888-79f3d60ff60f,7/12/2022,uuid:08034bff-dd90-42f6-b888-79f3d60ff60f
+12/7/2022 8:43,12/7/2022 8:44,construction,b16,Predator model,1,"No pollinators,  1 flowerhead that too not in good shape after rain. Samples collected",uuid:9dfee514-87c6-4f59-b6c2-2af077a7b1b3,7/12/2022,uuid:9dfee514-87c6-4f59-b6c2-2af077a7b1b3
+12/7/2022 8:52,12/7/2022 9:08,construction,b35,Control,8,"Some photos in cam, samples collected",uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1,7/12/2022,uuid:94a587fe-0d92-4f56-a173-d7f3ce2f2ba1
+12/7/2022 9:08,12/7/2022 9:10,construction,b35,Predator model,1,Obs with b35 nat,uuid:95d1fe02-a8f2-43ed-90ff-2258c8326ce6,7/12/2022,uuid:95d1fe02-a8f2-43ed-90ff-2258c8326ce6
+12/7/2022 9:13,12/7/2022 9:33,construction,b16,Exclude predators,3,Samples collected,uuid:76e653e7-35b0-4a98-b863-96c7bb68c31d,7/12/2022,uuid:76e653e7-35b0-4a98-b863-96c7bb68c31d
+12/7/2022 9:38,12/7/2022 9:40,construction,b10,Exclude predators,2,"Obs started T 935, with b10 nat",uuid:5053ca75-0ee8-4373-bf91-0cf1a7999d42,7/12/2022,uuid:5053ca75-0ee8-4373-bf91-0cf1a7999d42
+12/7/2022 9:40,12/7/2022 9:51,construction,b10,Control,9,"Obs started at 935 with b10 pred, samples collected",uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d,7/12/2022,uuid:e726c70f-bcaf-40de-8757-08b8b319bd5d
+12/7/2022 10:08,12/7/2022 10:23,construction,b20,Exclude predators,1,Obs with nat and mod,uuid:c9e1d3d3-fded-42ab-a576-08cc9aa31ae8,7/12/2022,uuid:c9e1d3d3-fded-42ab-a576-08cc9aa31ae8
+12/7/2022 10:23,12/7/2022 10:27,construction,b20,Control,8,"Obs with b20 mod and pred,samples collected",uuid:23923859-391b-47b3-b979-4f640e26a10d,7/12/2022,uuid:23923859-391b-47b3-b979-4f640e26a10d
+12/7/2022 10:28,12/7/2022 10:30,construction,b20,Predator model,1,"Obs with b20 nat and mod, samples collected",uuid:6d2256fa-9aeb-43c6-9359-e51ebc1172ac,7/12/2022,uuid:6d2256fa-9aeb-43c6-9359-e51ebc1172ac
+12/7/2022 10:38,12/7/2022 10:59,construction,b14,Exclude predators,1,"Samples collected, obs with nat b14 and mod b14",uuid:b1e7fd96-2510-4285-9c49-95b556115825,7/12/2022,uuid:b1e7fd96-2510-4285-9c49-95b556115825
+12/7/2022 10:59,12/7/2022 11:00,construction,b14,Control,1,"No poll, obs with pred and mod, almost everything mature, pollinators seemed to avoid this plant. Samples collected",uuid:20559b16-3c68-4edc-b4de-c82309bb9254,7/12/2022,uuid:20559b16-3c68-4edc-b4de-c82309bb9254
+12/7/2022 11:00,12/7/2022 11:01,construction,b14,Predator model,3,"Obs with nat and pred of b14, samples collected",uuid:0e5ab6f2-b8f8-46a9-97b0-312d27750138,7/12/2022,uuid:0e5ab6f2-b8f8-46a9-97b0-312d27750138
+12/7/2022 11:10,12/7/2022 11:24,construction,b24,Predator model,6,"Obs with b24 nat, samples collected",uuid:703360a8-e8b5-4387-a665-079714f09bcb,7/12/2022,uuid:703360a8-e8b5-4387-a665-079714f09bcb
+12/7/2022 11:25,12/7/2022 11:26,construction,b24,Control,4,"Obs with b24 mod, samples collected",uuid:42a936cc-68a3-4653-9496-81a93d86ef5e,7/12/2022,uuid:42a936cc-68a3-4653-9496-81a93d86ef5e
+13/07/22 09:11,13/07/22 09:26,rapseed,b17,Predator model,10,Samples collected,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9,7/13/2022,uuid:f859c7d4-30aa-4277-994d-632e2ccd77e9
+13/07/22 09:27,13/07/22 09:46,rapseed,b17,Exclude predators,7,Samples collected,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e,7/13/2022,uuid:f188d05b-bfe1-498f-8c06-a19e23e5a68e
+13/07/22 10:02,13/07/22 10:16,rapseed,b17,Control,3,Samples collected,uuid:73c4879b-c176-4eab-986f-72d38594c7b2,7/13/2022,uuid:73c4879b-c176-4eab-986f-72d38594c7b2
+13/07/22 10:20,13/07/22 10:33,rapseed,b28,Exclude predators,9,"Samples collected, white spider with big buldgy back and green black dot, and carrying green ball again and again climbing the plant. It caught blue shiny fly in web before starting obs",uuid:24932991-097b-40af-8de2-68f8bd8c8c01,7/13/2022,uuid:24932991-097b-40af-8de2-68f8bd8c8c01
+13/07/22 10:37,13/07/22 10:51,rapseed,b28,Predator model,2,Samples collected,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807,7/13/2022,uuid:323fd8f6-67c5-4ef2-a7b1-63f041b39807
+13/07/22 10:57,13/07/22 11:11,rapseed,b28,Control,10,Samples collected,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f,7/13/2022,uuid:5c4f56c5-0f9a-457d-ae47-d25e5bb4cd5f
+15/07/22 09:31,15/07/22 09:47,campus,b21,Control,5,Samples collected.,uuid:c0897f5c-0505-473a-9667-46f0a1192295,7/15/2022,uuid:c0897f5c-0505-473a-9667-46f0a1192295
+15/07/22 09:51,15/07/22 10:05,campus,b3,Control,6, ,uuid:757a45bb-2bde-4014-87e3-8094d727e28f,7/15/2022,uuid:757a45bb-2bde-4014-87e3-8094d727e28f
+15/07/22 10:05,15/07/22 10:06,campus,b3,Exclude predators,2,"Observed with b3 nat, no visitors, almost all flowerheads mature and the hairs are intermingled with each other. Can this scare the pollinators?",uuid:611402f4-0bee-4e61-aff9-67c6a97c6865,7/15/2022,uuid:611402f4-0bee-4e61-aff9-67c6a97c6865
+15/07/22 10:31,15/07/22 10:45,campus,b13,Predator model,4,Samples collected,uuid:309ffade-c50f-4e18-9935-465de0b9295e,7/15/2022,uuid:309ffade-c50f-4e18-9935-465de0b9295e
+15/07/22 10:57,15/07/22 11:08,campus,b2,Exclude predators,2,Samples collected,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69,7/15/2022,uuid:9cfd7263-186d-40bb-bf37-3fd96fbc9e69
+15/07/22 11:20,15/07/22 11:35,campus,b5,Control,2,Samples collected,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40,7/15/2022,uuid:7f7da397-b619-49ff-b2f4-513ad79fcb40
+15/07/22 11:55,15/07/22 12:10,campus,b8,Control,3,Samples collected,uuid:1f5d8ce9-1a89-4a3b-b645-ca99600677d4,7/15/2022,uuid:1f5d8ce9-1a89-4a3b-b645-ca99600677d4
+15/07/22 12:10,15/07/22 12:11,campus,b8,Predator model,2,"Obs with b8 nat, samples collected",uuid:4d15aca2-9fda-4145-8187-82741eab31e4,7/15/2022,uuid:4d15aca2-9fda-4145-8187-82741eab31e4
+16/07/22 09:15,16/07/22 09:31,ditch,b42,Control,6,"Some photos in phone and camera, samples collected on 11th, flowering species nearby recorded",uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611,7/16/2022,uuid:f8d1d18e-f7f8-4d25-99a0-4c2e8478b611
+16/07/22 09:32,16/07/22 09:47,ditch,b42,Exclude predators,5,"Photos and videos also in camera, samples collected on11th",uuid:ce178745-f74a-412d-9975-36dba01c75aa,7/16/2022,uuid:ce178745-f74a-412d-9975-36dba01c75aa
+16/07/22 09:58,16/07/22 10:16,ditch,b47,Control,14,"Initial obs of black honey has no of visited flowers 6 each, samples collected, some photos in camera",uuid:619f3957-46b0-41c9-abfe-dfae972a766b,7/16/2022,uuid:619f3957-46b0-41c9-abfe-dfae972a766b
+16/07/22 10:20,16/07/22 10:35,ditch,b45,Predator model,1,Samples collected on 11th,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce,7/16/2022,uuid:a1686c7d-ddfd-4a52-b436-dc1fbddca5ce
+16/07/22 10:37,16/07/22 10:47,ditch,b48,Predator model,4,Big sized house fly has small white dots on back,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27,7/16/2022,uuid:f1eb9f6e-9884-44c8-89f9-99c277d54c27
+16/07/22 10:55,16/07/22 11:10,ditch,b44,Control,2, ,uuid:ddb90c9e-f76b-487b-b060-e79de732f814,7/16/2022,uuid:ddb90c9e-f76b-487b-b060-e79de732f814
+16/07/22 11:14,16/07/22 11:27,ditch,b36,Control,3,"Not many visitors, most of the flowerheads are mature, only 3 tiny flowerheads, also super windy",uuid:4ac5bcbb-40cb-4a93-8b53-f7434096b902,7/16/2022,uuid:4ac5bcbb-40cb-4a93-8b53-f7434096b902
+16/07/22 11:27,16/07/22 11:28,ditch,b36,Predator model,1,"No visitors, all heads mature. One tiny little head, no visitor, obs done with b36 nat",uuid:2861ab4c-c32a-4842-90a1-d732f9f99ffd,7/16/2022,uuid:2861ab4c-c32a-4842-90a1-d732f9f99ffd
+16/07/22 11:37,16/07/22 11:50,ditch,b43,Predator model,4, ,uuid:5abc9a1e-4fc7-47ce-aebd-92c23c482c63,7/16/2022,uuid:5abc9a1e-4fc7-47ce-aebd-92c23c482c63
+16/07/22 11:50,16/07/22 11:51,ditch,b43,Exclude predators,1,"No visitor, all heads mature except 1, samples collected",uuid:48b6cb60-6d75-4fca-8b71-cc4d81a25195,7/16/2022,uuid:48b6cb60-6d75-4fca-8b71-cc4d81a25195
+16/07/22 11:54,16/07/22 12:07,ditch,b40,Control,3,Samples collected,uuid:f78cf5dc-eb10-4c34-ad2a-65749d1f6e3b,7/16/2022,uuid:f78cf5dc-eb10-4c34-ad2a-65749d1f6e3b
+16/07/22 12:07,16/07/22 12:08,ditch,b40,Exclude predators,1,"No visitors, recorded with b40 nat",uuid:d877d875-2692-4ce7-96e0-2e3f9002e51c,7/16/2022,uuid:d877d875-2692-4ce7-96e0-2e3f9002e51c
+18/07/22 09:19,18/07/22 09:36,construction,b16,Exclude predators,3,"Photos in camera and phone, samples collected",uuid:7484037e-b472-4dbe-bc34-e26f3711da82,7/18/2022,uuid:7484037e-b472-4dbe-bc34-e26f3711da82
+18/07/22 09:37,18/07/22 09:38,construction,b16,Predator model,2,"Observed with b16 pred, samples coected, photos in phone and camera",uuid:8da930ea-f708-4ed6-a240-5a15beb403f7,7/18/2022,uuid:8da930ea-f708-4ed6-a240-5a15beb403f7
+18/07/22 09:41,18/07/22 09:57,construction,b35,Exclude predators,1,Samples collected,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728,7/18/2022,uuid:f15240b9-6b51-490f-8535-9b4cf2a6e728
+18/07/22 09:57,18/07/22 09:57,construction,b35,Control,3,"Not many visitors, almost all heads are mature, observed with b35 pred",uuid:3d662c92-7f18-4297-9822-9bd7e918fc0a,7/18/2022,uuid:3d662c92-7f18-4297-9822-9bd7e918fc0a
+18/07/22 09:57,18/07/22 09:58,construction,b35,Predator model,1,"No visitors,no heads , in bud stage , only 1 head in bloom,sames collected",uuid:dd248aae-e1bc-435b-90e3-dc102529e396,7/18/2022,uuid:dd248aae-e1bc-435b-90e3-dc102529e396
+18/07/22 10:05,18/07/22 10:16,construction,b34,Predator model,1,"No visitors, perhaps because it is isolated. Samples collected",uuid:ea57ede8-9c32-4203-bc02-d69f27a6fc17,7/18/2022,uuid:ea57ede8-9c32-4203-bc02-d69f27a6fc17
+18/07/22 10:17,18/07/22 10:30,construction,b7,Predator model,1,"All heads mature, only one head in bloom, not many visitors, samples collected",uuid:73cd7587-b4c6-4cdc-8e79-99414e4a313f,7/18/2022,uuid:73cd7587-b4c6-4cdc-8e79-99414e4a313f
+18/07/22 10:30,18/07/22 10:30,construction,b24,Predator model,3,"Obs with b7 mod, samples collected",uuid:0f91b14f-1b2d-4f57-9094-ff2807c74f36,7/18/2022,uuid:0f91b14f-1b2d-4f57-9094-ff2807c74f36
+18/07/22 10:30,18/07/22 10:31,construction,b24,Exclude predators,4,"No visitors, obs with b24 mod and b7 mod, samples collected",uuid:68d40d79-c0ca-4011-a9a0-5c233c0180f5,7/18/2022,uuid:68d40d79-c0ca-4011-a9a0-5c233c0180f5
+18/07/22 10:39,18/07/22 10:54,construction,b20,Control,4,Samples collected,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1,7/18/2022,uuid:35fdc56a-4c98-4a94-87e9-703b43ff8af1
+18/07/22 11:04,18/07/22 11:15,construction,b19,Exclude predators,4,Samples collected,uuid:7324be71-e006-4533-aafe-355df5c22db6,7/18/2022,uuid:7324be71-e006-4533-aafe-355df5c22db6
+18/07/22 11:16,18/07/22 11:17,construction,b19,Control,6,"Obs with b19 pred, samples collected",uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef,7/18/2022,uuid:97a7d483-8263-4471-8dc7-e56ed33bc0ef
+18/07/22 11:20,18/07/22 11:30,construction,b39,Exclude predators,4,"No visitors, isolated plant with very small flowetheads, samples collected",uuid:db619352-617d-443c-9820-0962585a3523,7/18/2022,uuid:db619352-617d-443c-9820-0962585a3523
+20/07/22 09:22,20/07/22 09:37,rapseed,b27,Predator model,3,"Samples collected,  all mature",uuid:9cf60115-c68c-443c-9293-2c1e6bef4549,7/20/2022,uuid:9cf60115-c68c-443c-9293-2c1e6bef4549
+20/07/22 09:37,20/07/22 09:38,rapseed,b27,Control,1,"Obs with b27 mod, samples collected",uuid:676a8575-8480-4cf7-85da-633ed02582b8,7/20/2022,uuid:676a8575-8480-4cf7-85da-633ed02582b8
+20/07/22 09:37,20/07/22 09:38,rapseed,b27,Control,1,"Obs with b27 mod, samples collected",uuid:676a8575-8480-4cf7-85da-633ed02582b8,7/20/2022,uuid:676a8575-8480-4cf7-85da-633ed02582b8
+20/07/22 09:39,20/07/22 09:51,rapseed,b26,Predator model,4,"Not many visitors, perhaps due to all heads mature, so not mature heads are not visible, samples collected",uuid:30cf3665-3164-4a79-b33b-4250857b9250,7/20/2022,uuid:30cf3665-3164-4a79-b33b-4250857b9250
+20/07/22 09:51,20/07/22 09:53,rapseed,b26,Exclude predators,2,"Obs with b26 mod, one head visible and isolated, pollinators are visiting a lot because its clearly visible., samples collected",uuid:2c1cdae1-1a60-4484-997d-d25b8c277616,7/20/2022,uuid:2c1cdae1-1a60-4484-997d-d25b8c277616
+20/07/22 10:04,20/07/22 10:08,rapseed,b17,Control,3,"Started obs at 955, samples collected",uuid:ea09d5b3-ac9c-482b-88da-313bea891672,7/20/2022,uuid:ea09d5b3-ac9c-482b-88da-313bea891672
+20/07/22 10:08,20/07/22 10:09,rapseed,b17,Predator model,1,"No visitors, obs with b17 nat, samples collected",uuid:589c0a0e-2e48-4865-b2c4-5acfda49550a,7/20/2022,uuid:589c0a0e-2e48-4865-b2c4-5acfda49550a

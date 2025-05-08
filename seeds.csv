@@ -1,0 +1,616 @@
+,Site_Code,Block_Code,Treatment_Code,Vial_Code,Viable_Seeds,NViable_Seeds,Damaged_Seeds,Missing_Seeds,Insects,Flowers
+1,ditch,B43,Predator Model,1,69,16,0,8,0,93
+2,ditch,B42,Predator Model,1,24,30,0,3,0,57
+3,construction,B14,Control,1,67,7,1,10,3,85
+4,campus,B3,Predator Exclusion,1,71,12,0,-3,2,80
+5,ditch,B40,Predator Model,1,63,7,0,-1,1,69
+6,construction,B20,Predator Exclusion,1,37,15,2,24,1,78
+7,campus,B3,Control,1,85,15,0,-2,0,98
+8,campus,B2,Control,1,8,59,0,30,0,97
+9,construction,B18,NA,1,5,58,0,4,6,67
+10,ditch,B40,Control,1,89,2,0,-3,1,88
+11,construction,B34,Predator Model,1,32,19,1,17,2,69
+12,campus,B21,Predator Model,1,0,88,0,16,0,104
+13,campus,B11,Control,1,92,19,0,7,3,118
+14,campus,B2,Predator Exclusion,1,24,43,17,1,2,85
+15,ditch,B42,Control,1,75,4,0,0,4,79
+16,construction,B10,Control,1,9,61,0,4,0,74
+17,construction,B18,Predator Model,1,67,18,0,5,1,90
+18,rapseed,B32,Control,1,64,5,0,7,3,76
+19,campus,B21,Predator Exclusion,1,0,71,0,18,0,89
+20,construction,B14,Predator Model,1,39,14,0,15,3,68
+21,rapseed,B30,Predator Model,1,46,20,0,11,0,77
+22,campus,B2,Predator Model,1,35,46,0,7,0,88
+23,campus,B1,Predator Model,1,43,22,1,17,0,83
+24,campus,B1,Predator Exclusion,1,20,48,0,0,0,68
+25,rapseed,B17,Predator Exclusion,1,0,70,0,8,5,78
+26,ditch,B43,Control,1,57,7,0,-2,7,62
+27,rapseed,B28,Predator Exclusion,1,22,45,4,12,2,83
+28,rapseed,B26,Predator Exclusion,1,35,10,0,10,5,55
+29,construction,B35,Control,1,62,8,0,4,29,74
+30,campus,B5,Predator Model,1,52,23,0,9,0,84
+31,construction,B24,Control,1,62,11,0,2,0,75
+32,construction,B20,Pollinator Exclusion,1,2,55,1,22,1,80
+33,campus,B11,Predator Exclusion,1,64,14,0,21,0,99
+34,campus,B6,Control,1,57,24,0,-1,0,80
+35,campus,B8,Control,1,58,16,0,-2,8,72
+36,campus,B21,Pollinator Exclusion,1,0,47,3,-1,0,49
+37,ditch,B37,Predator Exclusion,1,40,18,3,17,1,78
+38,campus,B1,Control,1,41,42,0,-30,0,53
+39,construction,B34,Pollinator Exclusion,1,3,59,0,31,0,93
+40,ditch,B48,Control,1,57,13,0,4,9,74
+41,construction,B10,Predator Exclusion,1,51,17,0,2,0,70
+42,ditch,B36,Predator Exclusion,1,59,25,0,1,3,85
+43,construction,B16,Control,1,82,24,0,-2,16,104
+44,construction,B34,Control,1,63,11,1,3,1,78
+45,rapseed,B17,Predator Model,1,0,65,0,7,7,72
+46,ditch,B37,Predator Model,1,43,11,0,0,6,54
+47,ditch,B48,Predator Exclusion,1,43,28,10,3,0,84
+48,construction,B7,Control,1,34,12,3,6,0,55
+49,ditch,B47,Predator Exclusion,1,66,7,0,-11,0,62
+50,ditch,B45,Predator Model,1,37,17,0,13,0,67
+51,ditch,B44,Control,1,14,14,39,22,4,89
+52,campus,B21,Control,1,27,20,34,21,1,102
+53,rapseed,B32,Pollinator Exclusion,1,11,40,0,49,0,100
+54,campus,B5,Pollinator Exclusion,1,11,42,0,24,0,77
+55,campus,B1,Control,1,57,12,0,3,0,72
+56,rapseed,B27,Predator Exclusion,1,60,6,0,7,0,73
+57,construction,B20,Predator Exclusion,1,70,6,0,2,1,78
+58,construction,B7,Pollinator Exclusion,1,45,21,0,0,1,66
+59,rapseed,B26,Predator Model,1,50,9,0,3,0,62
+60,construction,B20,Control,1,26,23,0,3,0,52
+61,ditch,B47,Predator Model,1,60,7,0,6,0,73
+62,ditch,B47,Pollinator Exclusion,1,1,40,0,51,0,92
+63,construction,B34,Predator Model,1,38,20,0,1,3,59
+64,campus,B4,Control,1,49,18,17,8,0,92
+65,construction,B19,Predator Exclusion,1,28,9,0,25,0,62
+66,construction,B24,Control,1,61,0,4,6,0,71
+67,campus,B5,Predator Model,1,61,9,8,5,4,83
+68,campus,B12,Predator Exclusion,1,50,24,0,7,0,81
+69,ditch,B38,Predator Model,1,37,46,0,-2,6,81
+70,ditch,B42,Pollinator Exclusion,1,0,39,0,40,0,79
+71,construction,B7,Predator Exclusion,1,35,45,0,13,1,93
+72,campus,B6,Predator Exclusion,1,0,41,0,0,0,41
+73,construction,B14,Control,1,37,13,0,9,0,59
+74,campus,B8,Predator Model,1,6,3,0,65,0,74
+75,construction,B16,Predator Exclusion,1,37,17,13,29,0,96
+76,campus,B6,Predator Model,1,14,13,0,54,0,81
+77,ditch,B38,Predator Exclusion,1,72,13,0,1,1,86
+78,construction,B24,Pollinator Exclusion,1,41,19,0,4,0,64
+79,construction,B14,NA,1,54,26,0,14,2,94
+80,ditch,B40,Predator Exclusion,1,56,16,0,14,3,86
+81,campus,B3,Predator Model,1,78,7,0,3,0,88
+82,campus,B13,Predator Model,1,70,24,0,1,0,95
+83,campus,B3,Predator Model,1,13,52,0,2,1,67
+84,construction,B10,Pollinator Exclusion,1,0,46,0,31,0,77
+85,construction,B20,Control,1,68,7,0,0,4,75
+86,construction,B7,Pollinator Exclusion,1,0,43,0,39,0,82
+87,construction,B20,Predator Model,1,0,10,36,44,1,90
+88,ditch,B43,Pollinator Exclusion,1,3,48,0,23,0,74
+89,ditch,B44,Predator Exclusion,1,42,32,0,0,20,74
+90,campus,B12,Pollinator Exclusion,1,11,72,0,9,0,92
+91,ditch,B36,Predator Model,1,48,18,0,0,24,66
+92,construction,B18,Predator Exclusion,1,71,8,0,-10,0,69
+93,ditch,B38,Control,1,3,17,42,3,3,65
+94,campus,B12,Control,1,60,14,1,8,3,83
+95,campus,B4,Predator Exclusion,1,59,25,0,-3,1,81
+96,campus,B13,Control,1,58,16,0,5,0,79
+97,construction,B18,Control,1,36,54,0,-5,0,85
+98,ditch,B37,Pollinator Exclusion,1,3,77,0,6,0,86
+99,ditch,B42,Predator Exclusion,1,70,9,0,0,14,79
+100,campus,B9,Predator Model,1,11,38,22,13,1,84
+101,ditch,B38,Pollinator Exclusion,1,7,64,0,12,4,83
+102,campus,B21,Predator Model,1,61,40,0,7,0,108
+103,construction,B19,Control,1,48,5,0,11,0,64
+104,campus,B9,Control,1,3,76,0,12,6,91
+105,campus,B13,Control,1,28,30,8,0,1,66
+106,campus,B13,Predator Exclusion,1,40,16,0,7,0,63
+107,construction,B34,Predator Exclusion,1,27,36,12,9,0,84
+108,campus,B1,Predator Model,1,46,38,0,10,0,94
+109,construction,B34,Pollinator Exclusion,1,6,57,0,1,0,64
+110,rapseed,B30,Predator Exclusion,1,3,60,0,14,0,77
+111,rapseed,B30,Control,1,21,31,0,29,0,81
+112,ditch,B40,Pollinator Exclusion,1,16,50,0,5,0,71
+113,construction,B24,Predator Model,1,46,13,26,5,4,90
+114,rapseed,B23,Control,1,26,12,12,30,1,80
+115,campus,B13,Predator Exclusion,1,39,13,4,2,1,58
+116,ditch,B40,Pollinator Exclusion,1,0,47,0,9,0,56
+117,campus,B21,Predator Exclusion,1,45,3,0,17,1,65
+118,ditch,B36,Control,1,63,9,0,1,2,73
+119,campus,B5,Predator Exclusion,1,38,10,0,11,1,59
+120,campus,B9,Pollinator Exclusion,1,3,60,0,42,1,105
+121,rapseed,B30,Pollinator Exclusion,1,6,53,0,0,0,59
+122,campus,B4,Predator Model,1,94,4,0,-1,0,97
+123,construction,B18,Predator Model,1,42,3,0,5,0,50
+124,campus,NA,Control,1,56,3,0,15,0,74
+125,rapseed,B31,Predator Exclusion,1,4,44,0,8,0,56
+126,rapseed,B17,Control,1,1,78,0,10,4,89
+127,construction,B35,Predator Exclusion,1,63,36,1,5,0,105
+128,ditch,B40,Control,1,0,0,69,0,16,69
+129,rapseed,B30,Pollinator Exclusion,1,30,37,0,-7,0,60
+130,campus,B2,Control,0,46,9,0,11,0,66
+131,construction,B39,Predator Model,1,37,18,0,-41,0,14
+132,rapseed,B27,Predator Model,1,41,0,0,10,0,51
+133,construction,B24,Pollinator Exclusion,1,6,25,0,31,0,62
+134,construction,B16,Predator Exclusion,1,63,9,0,3,0,75
+135,rapseed,B26,Pollinator Exclusion,1,0,55,0,17,0,72
+136,ditch,B48,Predator Model,1,56,14,0,-2,0,68
+137,rapseed,B25,Pollinator Exclusion,1,8,54,0,-7,0,55
+138,construction,B18,Control,1,2,63,0,2,0,67
+139,rapseed,B17,Predator Model,1,0,63,0,20,0,83
+140,construction,B20,Predator Model,1,82,8,0,16,0,106
+141,construction,B19,Predator Model,1,36,11,1,15,2,63
+142,rapseed,B17,Control,1,0,80,0,14,1,94
+143,campus,B12,Predator Model,1,51,37,7,1,2,96
+144,campus,B9,Predator Exclusion,1,36,40,0,7,0,83
+145,rapseed,B32,Predator Exclusion,1,60,5,1,-7,0,59
+146,construction,B18,Predator Exclusion,1,40,20,0,6,0,66
+147,campus,B1,Predator Exclusion,1,36,41,0,10,0,87
+148,campus,B5,Pollinator Exclusion,1,0,68,0,0,2,68
+149,ditch,B45,Predator Exclusion,1,71,0,0,1,0,72
+150,construction,B39,Predator Exclusion,1,66,30,0,-6,0,90
+151,campus,B5,Control,1,86,0,0,0,0,86
+152,ditch,B37,Control,1,5,0,37,-2,0,40
+153,construction,B24,Predator Model,1,3,63,3,5,0,74
+154,construction,B24,Pollinator Exclusion,1,65,2,0,-2,4,65
+155,campus,B3,Pollinator Exclusion,1,0,74,0,3,0,77
+156,construction,B35,Predator Model,1,0,0,49,0,0,49
+157,campus,B4,Pollinator Exclusion,1,5,78,0,16,0,99
+158,construction,B16,Pollinator Exclusion,1,14,15,0,64,0,93
+159,rapseed,B27,Pollinator Exclusion,1,2,64,0,-3,0,63
+160,campus,B11,Pollinator Exclusion,1,12,40,2,29,0,83
+161,rapseed,B17,Pollinator Exclusion,1,0,91,0,15,0,106
+162,rapseed,B28,Pollinator Exclusion,1,5,66,0,1,0,72
+163,NA,NA,Pollinator Exclusion,1,13,69,2,4,0,88
+164,rapseed,B26,Control,1,56,3,0,2,0,61
+165,campus,B6,Control,1,37,10,2,8,2,57
+166,construction,B14,Predator Model,1,31,32,0,18,0,81
+167,rapseed,B25,Predator Model,1,51,34,0,-2,0,83
+168,rapseed,B31,Control,1,10,45,0,14,0,69
+169,rapseed,B32,Predator Model,1,49,17,0,13,0,79
+170,construction,B16,Control,1,22,29,0,5,0,56
+171,campus,B6,Pollinator Exclusion,1,10,52,0,6,0,68
+172,ditch,NA,Pollinator Exclusion,1,21,23,0,31,0,75
+173,construction,B10,Predator Exclusion,1,10,1,33,12,0,56
+174,construction,B19,Pollinator Exclusion,1,0,1,0,62,0,63
+175,rapseed,B17,Predator Exclusion,1,4,64,0,24,0,92
+176,campus,B2,Control,1,52,13,0,4,0,69
+177,rapseed,B28,Predator Exclusion,1,69,0,0,3,0,72
+178,campus,B13,Pollinator Exclusion,1,0,0,11,49,0,60
+179,campus,B8,Pollinator Exclusion,1,27,20,0,7,0,54
+180,campus,B1,Pollinator Exclusion,1,3,37,0,24,0,64
+181,campus,B2,Pollinator Exclusion,1,7,35,0,55,0,97
+182,construction,B35,Pollinator Exclusion,1,0,45,2,45,0,92
+183,rapseed,B31,Pollinator Exclusion,1,0,49,0,11,0,60
+184,rapseed,B30,Predator Exclusion,1,21,19,1,25,0,66
+185,ditch,B43,Predator Exclusion,1,63,0,0,6,0,69
+186,rapseed,B28,Predator Model,1,28,37,0,8,0,73
+187,campus,B8,Predator Exclusion,1,61,1,0,7,0,69
+188,rapseed,B27,Control,1,54,1,0,0,0,55
+189,campus,B13,Control,1,48,20,6,16,0,90
+190,campus,B11,Predator Model,1,54,22,0,11,0,87
+191,rapseed,B29,Predator Exclusion,1,58,17,0,-3,0,72
+192,construction,B34,Predator Exclusion,1,41,12,0,5,0,58
+193,construction,B39,Control,1,23,25,22,-24,1,46
+194,rapseed,B29,Pollinator Exclusion,1,4,63,0,9,0,76
+195,ditch,B47,Control,1,56,7,5,6,1,74
+196,campus,B2,Predator Model,1,35,33,0,14,0,82
+197,construction,B20,Pollinator Exclusion,1,0,66,0,6,0,72
+198,construction,B7,Predator Model,1,62,4,0,10,0,76
+199,campus,B13,Predator Model,1,75,14,0,1,0,90
+200,rapseed,B23,Pollinator Exclusion,1,0,54,0,16,0,70
+201,ditch,B48,Pollinator Exclusion,1,0,88,0,-2,0,86
+202,construction,B39,Pollinator Exclusion,1,0,99,0,6,0,105
+203,rapseed,B28,Control,1,29,36,0,0,4,65
+204,rapseed,B30,Control,1,37,34,0,4,0,75
+205,construction,B34,Control,1,65,2,0,14,0,81
+206,campus,B6,Predator Model,1,30,17,18,-10,2,55
+207,campus,B2,Pollinator Exclusion,1,3,44,0,51,0,98
+208,campus,B1,Control,2,50,90,128,-70,5,198
+209,campus,B9,Predator Exclusion,3,35,29,0,12,0,76
+210,construction,B7,Predator Exclusion,3,38,20,0,10,0,68
+211,construction,B10,Predator Exclusion,3,36,12,23,5,0,76
+212,construction,B35,Pollinator Exclusion,3,7,62,0,12,0,81
+213,construction,B18,Predator Model,3,61,0,0,9,0,70
+214,construction,B18,Predator Exclusion,3,38,27,0,2,0,67
+215,ditch,B48,Pollinator Exclusion,2,11,73,0,3,0,87
+216,construction,B19,Predator Model,3,55,3,0,19,0,77
+217,campus,B6,Predator Model,3,20,31,0,11,0,62
+218,rapseed,B29,Predator Exclusion,3,61,15,0,11,0,87
+219,campus,B3,Pollinator Exclusion,3,5,92,0,20,0,117
+220,ditch,B45,Pollinator Exclusion,3,9,16,0,48,0,73
+221,rapseed,B26,Pollinator Exclusion,3,0,20,0,48,0,68
+222,campus,B13,Pollinator Exclusion,3,2,3,4,71,0,80
+223,ditch,B47,Pollinator Exclusion,5,7,0,8,55,0,70
+224,rapseed,B23,Pollinator Exclusion,3,11,45,0,13,0,69
+225,rapseed,B27,Control,3,58,3,0,2,0,63
+226,campus,B6,Pollinator Exclusion,3,3,64,0,4,0,71
+227,construction,B14,Predator Exclusion,3,60,8,0,-3,0,65
+228,rapseed,B17,Predator Exclusion,3,0,74,0,10,0,84
+229,construction,B24,Pollinator Exclusion,3,1,71,0,2,2,74
+230,campus,B12,Predator Exclusion,3,56,9,0,5,0,70
+231,campus,B9,Pollinator Exclusion,3,4,68,0,5,0,77
+232,rapseed,B31,Predator Exclusion,3,49,13,0,4,0,66
+233,construction,B7,Control,3,50,17,31,-22,0,76
+234,ditch,B48,Control,3,62,10,0,9,2,81
+235,rapseed,B27,Predator Model,3,49,0,8,-3,1,54
+236,rapseed,B30,Pollinator Exclusion,3,0,57,0,0,0,57
+237,construction,B7,Predator Model,3,66,20,0,9,0,95
+238,construction,B24,Predator Exclusion,3,56,7,0,4,0,67
+239,campus,B2,Control,3,59,11,0,12,0,82
+240,rapseed,B30,Control,3,54,5,0,3,0,62
+241,campus,B5,Predator Exclusion,3,3,3,14,-2,0,18
+242,construction,B14,Control,3,48,28,0,18,0,94
+243,campus,B5,Pollinator Exclusion,3,0,72,0,12,0,84
+244,campus,B11,Predator Model,3,42,34,0,0,0,76
+245,rapseed,B17,Pollinator Exclusion,3,0,89,0,14,0,103
+246,construction,B7,Pollinator Exclusion,3,1,72,0,1,0,74
+247,ditch,B42,Predator Exclusion,3,59,9,0,-4,0,64
+248,rapseed,B17,Predator Model,3,0,75,0,11,0,86
+249,campus,B11,Pollinator Exclusion,3,5,13,0,64,0,82
+250,ditch,B40,Predator Model,3,65,5,0,-4,0,66
+251,construction,B35,Control,3,24,26,9,40,1,99
+252,rapseed,B17,Predator Model,3,1,63,0,26,0,90
+253,ditch,B38,Predator Exclusion,3,71,9,0,0,0,80
+254,rapseed,B26,Control,3,56,6,0,0,0,62
+255,rapseed,B28,Control,3,16,64,0,7,0,87
+256,campus,B6,Control,3,34,6,6,17,0,63
+257,rapseed,B17,Predator Exclusion,3,1,51,8,22,0,82
+258,construction,B19,Predator Exclusion,3,55,3,0,20,0,78
+259,construction,B19,Control,3,56,0,0,28,0,84
+260,rapseed,B30,Control,3,53,16,1,3,7,73
+261,rapseed,B17,Control,3,0,85,0,5,0,90
+262,construction,B10,Predator Exclusion,3,58,1,0,6,0,65
+263,campus,B6,Control,3,13,39,1,33,0,86
+264,construction,B18,Pollinator Exclusion,3,0,61,0,18,0,79
+265,campus,B12,Predator Model,3,37,9,3,54,1,103
+266,ditch,B43,Control,3,71,7,0,6,0,84
+267,campus,B21,Predator Exclusion,3,71,28,0,-8,7,91
+268,rapseed,B27,Pollinator Exclusion,3,0,62,0,3,0,65
+269,campus,B3,Predator Exclusion,3,92,14,0,-6,0,100
+270,ditch,B36,Predator Exclusion,3,54,17,0,4,0,75
+271,rapseed,B32,Predator Model,3,77,5,0,-8,0,74
+272,campus,B8,Predator Model,3,57,0,0,10,0,67
+273,campus,B1,Pollinator Exclusion,3,0,31,6,34,0,71
+274,ditch,B43,Predator Model,3,58,9,0,4,0,71
+275,campus,B5,Pollinator Exclusion,3,2,80,5,21,0,108
+276,construction,B34,Predator Exclusion,3,46,35,0,2,0,83
+277,construction,B7,Predator Model,3,42,11,0,11,0,64
+278,rapseed,B25,Pollinator Exclusion,3,6,66,3,23,0,98
+279,construction,B39,Control,3,29,15,5,29,0,78
+280,construction,B34,Predator Model,3,38,17,1,11,0,67
+281,campus,B2,Pollinator Exclusion,3,21,16,6,46,0,89
+282,construction,B34,Predator Model,3,56,16,0,7,0,79
+283,construction,B14,Predator Model,3,44,9,0,9,0,62
+284,construction,B20,Predator Model,3,27,37,0,19,1,83
+285,campus,B3,Predator Model,3,74,10,0,6,1,90
+286,rapseed,B27,Predator Exclusion,3,53,1,0,3,0,57
+287,construction,B16,Pollinator Exclusion,3,16,36,0,28,0,80
+288,construction,B7,Predator Exclusion,3,34,18,0,18,0,70
+289,rapseed,B32,Control,3,0,71,0,0,0,71
+290,rapseed,B32,Predator Exclusion,3,40,4,6,7,0,57
+291,rapseed,B31,Pollinator Exclusion,3,1,63,0,8,0,72
+292,campus,B3,Control,3,78,10,0,13,0,101
+293,construction,B20,Control,3,54,0,0,12,0,66
+294,construction,B14,Predator Model,3,21,5,7,40,0,73
+295,ditch,B37,Predator Exclusion,3,35,10,5,34,0,84
+296,construction,B24,Control,3,44,2,1,18,0,65
+297,ditch,B40,Predator Exclusion,3,69,13,0,2,18,84
+298,campus,B1,Predator Model,3,5,2,17,42,1,66
+299,construction,B35,Predator Model,3,83,0,0,5,2,88
+300,rapseed,B17,Control,3,1,83,0,2,0,86
+301,campus,B4,Predator Model,3,20,11,33,29,1,93
+302,ditch,B43,Pollinator Exclusion,3,1,51,0,9,0,61
+303,rapseed,B30,Predator Exclusion,3,56,4,0,5,0,65
+304,campus,B2,Pollinator Exclusion,3,4,63,1,3,0,71
+305,construction,B10,Control,3,30,73,0,2,0,105
+306,construction,B20,Predator Exclusion,3,65,4,0,3,0,72
+307,construction,B20,Pollinator Exclusion,3,4,36,0,42,0,82
+308,ditch,B47,Pollinator Exclusion,3,24,18,5,39,0,86
+309,campus,B12,Control,5,46,12,0,20,0,78
+310,campus,B2,Predator Exclusion,3,16,35,12,14,0,77
+311,campus,B5,Predator Model,3,66,18,0,-2,0,82
+312,rapseed,B31,Control,3,15,49,0,9,1,73
+313,campus,B4,Control,3,76,10,0,24,0,110
+314,ditch,B48,Predator Exclusion,3,62,12,5,3,2,82
+315,ditch,B38,Control,3,63,10,1,12,0,86
+316,campus,B13,Predator Model,3,70,21,0,5,0,96
+317,campus,B13,Control,3,40,29,0,6,0,75
+318,campus,B21,Predator Exclusion,3,44,17,4,-2,0,63
+319,campus,B13,Predator Exclusion,3,15,40,3,21,0,79
+320,construction,B18,Predator Model,3,48,18,14,9,0,89
+321,construction,B24,Pollinator Exclusion,3,10,31,16,20,0,77
+322,campus,B2,Predator Model,3,26,22,15,14,0,77
+323,construction,B10,Pollinator Exclusion,3,0,52,10,13,0,75
+324,construction,B20,Predator Exclusion,3,44,33,0,5,0,82
+325,rapseed,B26,Predator Exclusion,3,49,4,0,0,1,53
+326,rapseed,B28,Predator Model,3,1,36,15,31,1,83
+327,campus,B4,Predator Exclusion,3,59,33,0,22,0,114
+328,construction,B34,Control,3,41,20,0,7,0,68
+329,campus,B2,Predator Exclusion,3,48,4,0,4,0,56
+330,rapseed,B31,Predator Model,3,21,51,0,8,0,80
+331,rapseed,B30,Pollinator Exclusion,3,0,61,0,11,0,72
+332,ditch,B37,Pollinator Exclusion,3,1,51,8,3,0,63
+333,ditch,B42,Predator Model,3,43,15,0,6,0,64
+334,rapseed,B30,Predator Exclusion,3,30,36,0,4,1,70
+335,rapseed,B25,Predator Model,3,54,19,2,4,0,79
+336,construction,B18,Control,3,25,49,1,17,0,92
+337,ditch,B47,Predator Model,3,64,1,0,-4,0,61
+338,construction,B16,Predator Exclusion,3,20,48,1,7,1,76
+339,campus,B9,Control,3,10,58,1,28,1,97
+340,campus,B2,Control,3,33,26,3,8,0,70
+341,construction,B10,Predator Model,3,20,43,1,18,0,82
+342,campus,B2,Predator Model,3,46,33,0,2,0,81
+343,construction,B24,Predator Model,3,36,35,2,34,0,107
+344,campus,B1,Predator Model,3,22,40,2,2,1,66
+345,campus,B11,Control,3,69,26,0,-35,1,60
+346,campus,B4,Pollinator Exclusion,3,2,99,0,6,0,107
+347,construction,B24,Predator Model,3,66,5,0,19,0,90
+348,construction,B16,Control,3,0,0,56,0,0,56
+349,ditch,B48,Predator Model,3,80,0,0,9,0,89
+350,rapseed,B26,Predator Model,3,54,7,0,17,0,78
+351,ditch,B38,Predator Model,3,66,10,6,3,1,85
+352,campus,B11,Predator Exclusion,3,70,19,0,1,4,90
+353,campus,B1,Control,3,70,11,0,-6,0,75
+354,campus,B12,Control,3,53,20,0,6,0,79
+355,construction,B16,Control,3,36,14,15,7,0,72
+356,ditch,B44,Predator Exclusion,3,44,11,16,-13,0,58
+357,campus,B1,Predator Exclusion,3,27,44,0,23,0,94
+358,construction,B20,Pollinator Exclusion,3,2,49,13,22,0,86
+359,ditch,B37,Predator Model,3,11,44,2,1,0,58
+360,campus,B13,Predator Model,3,44,24,0,1,0,69
+361,ditch,B38,Pollinator Exclusion,3,4,58,0,-1,0,61
+362,construction,B39,Predator Exclusion,3,22,36,0,15,0,73
+363,rapseed,B28,Pollinator Exclusion,3,1,73,0,9,0,83
+364,ditch,B42,Control,3,85,4,0,3,13,92
+365,construction,B20,Predator Model,3,50,18,0,24,0,92
+366,ditch,B44,Pollinator Exclusion,3,8,21,0,59,0,88
+367,rapseed,B30,Predator Model,3,0,0,22,36,0,58
+368,rapseed,B28,Predator Exclusion,3,61,4,0,4,0,69
+369,campus,B6,Predator Model,3,36,20,0,17,2,73
+370,campus,B1,Control,3,35,17,0,28,0,80
+371,campus,B21,Predator Model,3,57,35,20,4,0,116
+372,construction,B34,Pollinator Exclusion,3,9,79,0,1,0,89
+373,construction,B18,Control,3,54,55,0,23,0,132
+374,campus,B12,Pollinator Exclusion,3,1,86,0,17,0,104
+375,campus,B21,Pollinator Exclusion,3,19,55,0,-8,0,66
+376,campus,B21,Control,3,80,16,0,18,1,114
+377,construction,B16,Predator Exclusion,3,40,5,0,25,0,70
+378,construction,B19,Pollinator Exclusion,3,4,10,16,45,0,75
+379,campus,B2,Control,3,55,0,0,6,0,61
+380,ditch,B40,Control,3,100,1,1,-1,2,101
+381,construction,B20,Control,3,47,6,6,2,0,61
+382,ditch,B44,Control,3,35,37,0,6,0,78
+383,campus,B8,Control,3,50,11,0,11,0,72
+384,campus,B8,Predator Exclusion,3,51,11,0,10,0,72
+385,campus,B21,Predator Model,3,71,20,0,-16,0,75
+386,campus,B5,Predator Model,3,64,0,0,22,0,86
+387,ditch,B43,Predator Exclusion,3,74,4,0,2,0,80
+388,ditch,B45,Pollinator Exclusion,3,16,55,0,2,0,73
+389,construction,B34,Predator Exclusion,3,13,18,0,70,0,101
+390,ditch,B36,Control,3,23,9,24,20,1,76
+391,ditch,B45,Predator Exclusion,3,4,0,17,62,0,83
+392,rapseed,B28,Predator Exclusion,3,40,28,0,8,0,76
+393,ditch,B48,Pollinator Exclusion,3,0,82,0,-1,0,81
+394,campus,B13,Predator Exclusion,3,10,33,1,5,0,49
+395,ditch,B45,Predator Model,3,37,36,2,6,0,81
+396,construction,B34,Control,3,0,30,0,21,0,51
+397,ditch,B47,Control,3,88,12,0,-3,0,97
+398,campus,B9,Predator Model,3,42,27,0,4,0,73
+399,ditch,B42,Pollinator Exclusion,3,10,46,0,23,0,79
+400,campus,B8,Pollinator Exclusion,3,1,32,1,42,0,76
+401,campus,B13,Control,3,40,14,6,10,0,70
+402,ditch,B47,Predator Exclusion,3,43,37,9,-9,0,80
+403,ditch,B40,Control,3,3,0,62,24,1,89
+404,campus,B6,Predator Exclusion,3,6,69,2,4,0,81
+405,rapseed,B17,Control,3,2,69,2,21,0,94
+406,rapseed,B32,Pollinator Exclusion,3,1,24,5,75,0,105
+407,construction,B24,Control,3,27,28,12,3,0,70
+408,ditch,B40,Pollinator Exclusion,3,17,30,16,7,0,70
+409,ditch,B36,Predator Model,3,52,20,3,9,0,84
+410,construction,B7,Predator Exclusion,2,88,28,0,-35,0,81
+411,construction,B18,Predator Model,2,66,5,0,6,0,77
+412,rapseed,B32,Control,2,63,3,0,-5,0,61
+413,construction,B16,Predator Exclusion,2,62,9,0,17,2,88
+414,rapseed,B17,Control,2,0,59,0,33,0,92
+415,construction,B34,Control,2,31,26,0,14,0,71
+416,construction,B19,Pollinator Exclusion,2,7,46,0,37,0,90
+417,campus,B5,Predator Model,2,40,7,0,12,0,59
+418,construction,B18,Predator Exclusion,2,0,27,0,12,0,39
+419,campus,B2,Predator Exclusion,2,54,8,0,1,1,63
+420,construction,B14,Predator Model,2,36,11,0,10,0,57
+421,ditch,B37,Predator Exclusion,2,42,11,4,14,0,71
+422,construction,B34,Pollinator Exclusion,2,25,15,0,32,0,72
+423,construction,B35,Pollinator Exclusion,2,17,45,0,13,1,75
+424,construction,B20,Predator Exclusion,2,40,8,0,14,0,62
+425,campus,B5,Pollinator Exclusion,2,4,57,10,14,0,85
+426,campus,B4,Pollinator Exclusion,2,3,87,0,16,0,106
+427,rapseed,B30,Pollinator Exclusion,2,0,58,0,16,0,74
+428,construction,B7,Predator Model,2,55,27,0,8,0,90
+429,ditch,B44,Pollinator Exclusion,2,4,59,2,30,0,95
+430,ditch,B42,Pollinator Exclusion,2,11,14,27,38,1,90
+431,campus,B8,Pollinator Exclusion,2,5,47,6,20,0,78
+432,campus,B8,Predator Exclusion,2,53,15,0,7,0,75
+433,campus,B5,Predator Model,2,65,22,0,3,0,90
+434,construction,B10,Predator Model,2,0,0,18,47,1,65
+435,campus,B11,Predator Exclusion,2,61,15,13,0,1,89
+436,rapseed,B26,Predator Exclusion,2,43,4,0,1,0,48
+437,ditch,B40,Control,2,84,6,1,4,1,95
+438,construction,B24,Control,2,61,3,0,9,0,73
+439,campus,B2,Pollinator Exclusion,2,5,54,0,12,0,71
+440,rapseed,B26,Predator Model,2,56,11,0,5,0,72
+441,rapseed,B28,Predator Exclusion,2,64,1,0,9,0,74
+442,construction,B18,Predator Exclusion,2,4,19,18,49,1,90
+443,campus,B21,Control,2,26,11,42,30,1,109
+444,ditch,B40,Pollinator Exclusion,2,0,30,12,20,0,62
+445,campus,B4,Predator Model,2,28,34,9,-2,0,69
+446,construction,B39,Predator Exclusion,2,0,55,0,20,0,75
+447,campus,B6,Control,2,27,0,12,26,0,65
+448,campus,B13,Control,2,32,3,8,20,0,63
+449,campus,B13,Pollinator Exclusion,2,3,34,0,29,0,66
+450,campus,B2,Control,2,60,3,0,15,2,78
+451,campus,B6,Pollinator Exclusion,2,2,67,0,-1,1,68
+452,campus,B6,Predator Model,2,8,22,14,28,0,72
+453,campus,B13,Predator Exclusion,2,18,8,19,12,2,57
+454,campus,B5,Pollinator Exclusion,2,15,51,4,13,0,83
+455,construction,B16,Predator Exclusion,2,29,3,16,22,1,70
+456,rapseed,B26,Pollinator Exclusion,2,0,54,10,19,0,83
+457,campus,B6,Pollinator Exclusion,2,7,54,0,5,0,66
+458,ditch,B47,Control,2,57,3,0,15,0,75
+459,rapseed,B27,Predator Exclusion,2,53,0,0,6,0,59
+460,campus,B2,Pollinator Exclusion,2,8,23,6,57,0,94
+461,campus,B11,Control,2,34,34,0,28,1,96
+462,campus,B11,Predator Model,2,54,19,0,-5,7,68
+463,campus,B13,Predator Model,2,58,24,0,8,0,90
+464,campus,B1,Predator Model,2,30,33,0,15,0,78
+465,construction,B14,Control,2,64,20,0,-1,0,83
+466,rapseed,B27,Control,2,57,14,0,0,0,71
+467,rapseed,B31,Predator Model,2,34,60,0,4,0,98
+468,construction,B14,Predator Exclusion,2,56,20,0,2,0,78
+469,construction,B18,Predator Model,2,37,15,0,9,0,61
+470,rapseed,B17,Predator Exclusion,2,0,75,0,77,1,152
+471,construction,B20,Control,2,52,17,0,5,0,74
+472,rapseed,B30,Predator Model,2,48,26,0,14,0,88
+473,campus,B5,Predator Exclusion,2,38,24,0,7,0,69
+474,campus,B6,Predator Exclusion,2,17,44,31,-18,0,74
+475,ditch,B48,Predator Model,2,84,0,0,5,0,89
+476,campus,B1,Control,2,54,12,0,8,0,74
+477,campus,B8,Predator Model,2,42,16,0,14,0,72
+478,construction,B34,Predator Exclusion,2,30,22,0,8,0,60
+479,campus,B1,Predator Model,2,34,12,0,8,0,54
+480,construction,B24,Predator Model,2,60,20,0,40,0,120
+481,rapseed,B25,Pollinator Exclusion,2,3,47,0,22,0,72
+482,ditch,B37,Control,2,80,1,23,-36,0,68
+483,rapseed,B26,Control,2,38,8,0,17,0,63
+484,rapseed,B32,Predator Exclusion,2,47,9,0,8,0,64
+485,construction,B19,Predator Exclusion,2,37,12,0,17,1,66
+486,ditch,B43,Predator Exclusion,2,61,4,1,10,0,76
+487,construction,B34,Predator Model,2,38,15,2,21,0,76
+488,campus,B12,Predator Exclusion,2,44,35,0,-8,0,71
+489,campus,B3,Predator Model,2,72,12,0,6,1,90
+490,rapseed,B23,Control,2,27,16,0,19,0,62
+491,construction,B14,Control,2,65,4,0,12,0,81
+492,rapseed,B32,Predator Model,2,52,4,0,7,0,63
+493,campus,B13,Predator Model,2,62,10,0,-1,0,71
+494,construction,B20,Predator Model,2,54,6,0,1,0,61
+495,campus,B11,Pollinator Exclusion,2,9,0,0,83,0,92
+496,rapseed,B17,Predator Model,2,1,31,0,38,0,70
+497,rapseed,B27,Predator Model,2,42,3,0,7,0,52
+498,rapseed,B23,Pollinator Exclusion,2,7,43,0,25,0,75
+499,rapseed,B29,Predator Exclusion,2,0,65,0,5,0,70
+500,rapseed,B17,Predator Exclusion,2,2,43,0,37,0,82
+501,ditch,B45,Control,2,12,27,0,31,0,70
+502,ditch,B45,Control,2,58,5,0,13,0,76
+503,construction,B39,Control,2,37,23,0,8,0,68
+504,ditch,B47,Pollinator Exclusion,2,21,22,0,41,0,84
+505,rapseed,B30,Pollinator Exclusion,2,1,55,0,5,0,61
+506,campus,B6,Predator Model,2,31,33,0,8,0,72
+507,construction,B24,Pollinator Exclusion,2,5,75,0,6,0,86
+508,construction,B34,Predator Exclusion,2,5,5,42,27,0,79
+509,campus,B2,Control,2,36,33,0,18,0,87
+510,construction,B34,Pollinator Exclusion,2,10,31,0,40,0,81
+511,ditch,B38,Predator Exclusion,2,74,10,0,-6,0,78
+512,campus,B2,Predator Exclusion,2,29,49,0,6,0,84
+513,rapseed,B31,Predator Exclusion,2,48,18,0,2,0,68
+514,construction,B34,Control,2,45,35,0,1,0,81
+515,construction,B24,Pollinator Exclusion,2,8,35,0,19,0,62
+516,construction,B19,Control,2,47,16,0,13,0,76
+517,campus,B2,Predator Model,2,74,4,0,-2,0,76
+518,construction,B24,Control,2,29,39,0,5,0,73
+519,rapseed,B28,Control,2,49,21,0,9,0,79
+520,construction,B20,Pollinator Exclusion,2,18,19,0,25,0,62
+521,construction,B20,Control,2,47,31,0,9,0,87
+522,ditch,B38,Predator Model,2,90,2,0,1,0,93
+523,rapseed,B25,Predator Model,2,51,17,0,3,0,71
+524,construction,B20,Predator Model,2,8,72,0,11,0,91
+525,ditch,B38,Pollinator Exclusion,2,5,65,0,3,0,73
+526,campus,B4,Predator Exclusion,2,75,24,0,13,0,112
+527,construction,B35,Control,2,68,12,0,0,0,80
+528,ditch,B36,Predator Model,2,35,12,0,6,0,53
+529,construction,B7,Control,2,17,22,0,29,0,68
+530,rapseed,B32,Pollinator Exclusion,2,0,11,0,99,0,110
+531,campus,B3,Pollinator Exclusion,2,0,72,0,15,0,87
+532,rapseed,B30,Predator Exclusion,2,50,3,0,11,0,64
+533,construction,B18,Control,2,0,72,0,3,0,75
+534,rapseed,B27,Pollinator Exclusion,2,10,40,0,-7,0,43
+535,construction,B20,Predator Exclusion,2,13,22,10,19,0,64
+536,campus,B12,Control,2,35,6,22,14,0,77
+537,campus,B8,Control,2,75,4,0,-1,1,78
+538,campus,B21,Predator Exclusion,2,60,15,0,10,0,85
+539,construction,B10,Pollinator Exclusion,2,5,55,0,11,0,71
+540,campus,B21,Predator Model,2,68,19,0,0,0,87
+541,construction,B10,Predator Exclusion,2,63,2,0,10,1,75
+542,construction,B16,Pollinator Exclusion,2,4,10,0,63,0,77
+543,campus,B5,Control,2,78,8,0,1,1,87
+544,campus,B2,Control,2,64,26,0,24,0,114
+545,campus,B21,Predator Model,2,30,49,0,15,0,94
+546,campus,B12,Predator Model,2,35,55,0,20,2,110
+547,construction,B24,Predator Model,2,49,53,0,10,1,112
+548,ditch,B48,Predator Exclusion,2,34,46,13,-6,0,87
+549,ditch,B43,Predator Model,2,79,11,0,3,0,93
+550,construction,B24,Predator Exclusion,2,58,11,0,3,0,72
+551,rapseed,B31,Control,2,28,33,2,6,0,69
+552,construction,B10,Predator Exclusion,2,9,18,31,27,1,85
+553,campus,B3,Control,2,88,16,0,2,0,106
+554,construction,B34,Pollinator Exclusion,2,7,97,0,24,0,128
+555,ditch,B36,Predator Exclusion,2,67,23,0,1,10,91
+556,ditch,B38,Control,2,59,20,5,-5,0,79
+557,ditch,B47,Predator Model,2,37,43,0,7,0,87
+558,campus,B12,Pollinator Exclusion,2,0,69,0,33,0,102
+559,construction,B18,Pollinator Exclusion,2,0,2,25,36,0,63
+560,construction,B7,Predator Exclusion,2,36,12,8,2,0,58
+561,ditch,B45,Predator Model,2,50,13,0,3,1,66
+562,ditch,B42,Predator Model,2,51,17,0,1,0,69
+563,campus,B1,Pollinator Exclusion,2,5,27,0,56,0,88
+564,construction,B24,Predator Exclusion,2,0,0,0,49,0,49
+565,campus,B13,Predator Exclusion,2,24,37,0,6,0,67
+566,campus,B9,Control,2,10,77,0,6,0,93
+567,campus,B1,Control,2,51,20,0,7,1,78
+568,campus,B9,Predator Exclusion,2,37,25,5,5,0,72
+569,ditch,B40,Predator Model,2,23,34,0,7,0,64
+570,campus,B4,Control,2,58,43,0,12,0,113
+571,campus,B21,Predator Exclusion,2,47,43,0,-4,0,86
+572,construction,B7,Pollinator Exclusion,2,5,70,0,0,0,75
+573,construction,B16,Control,2,29,24,0,-4,0,49
+574,campus,B9,Pollinator Exclusion,2,0,71,0,1,0,72
+575,campus,B2,Predator Model,2,46,31,10,14,0,101
+576,rapseed,B28,Pollinator Exclusion,2,4,57,0,3,0,64
+577,campus,B1,Predator Exclusion,2,26,55,0,10,0,91
+578,campus,B21,Pollinator Exclusion,2,4,86,0,-85,0,5
+579,campus,B9,Predator Model,2,60,9,0,2,0,71
+580,campus,B3,Predator Exclusion,2,51,3,0,-1,0,53
+581,campus,B6,Control,2,34,27,1,9,0,71
+582,rapseed,B31,Predator Model,2,42,35,0,5,0,82
+583,construction,B34,Predator Model,2,50,19,0,11,0,80
+584,construction,B14,Predator Model,2,59,7,1,6,1,73
+585,rapseed,B17,Control,2,0,74,7,5,6,86
+586,construction,B16,Control,2,46,21,0,-2,6,65
+587,construction,B20,Pollinator Exclusion,2,9,58,0,19,0,86
+588,construction,B10,Pollinator Exclusion,2,0,59,0,11,0,70
+589,rapseed,B28,Predator Exclusion,2,40,23,0,11,0,74
+590,ditch,B37,Pollinator Exclusion,2,7,57,0,31,0,95
+591,rapseed,B30,Predator Exclusion,2,34,23,0,15,0,72
+592,ditch,B47,Predator Exclusion,2,31,15,8,5,0,59
+593,ditch,B48,Control,2,67,14,7,-3,1,85
+594,construction,B19,Predator Model,2,46,7,0,13,0,66
+595,ditch,B40,Predator Exclusion,2,0,0,26,-6,0,20
+596,rapseed,B28,Predator Model,2,27,26,0,19,0,72
+597,rapseed,B17,Predator Model,2,0,70,0,4,0,74
+598,ditch,B44,Control,2,45,15,0,7,22,67
+599,construction,B39,Pollinator Exclusion,2,0,2,0,99,0,101
+600,ditch,B36,Control,2,61,17,0,9,2,87
+601,rapseed,B31,Pollinator Exclusion,2,2,53,0,13,0,68
+602,ditch,B40,Control,2,92,4,0,-4,5,92
+603,ditch,B42,Predator Exclusion,2,75,1,0,-3,0,73
+604,rapseed,B30,Control,2,49,12,0,7,0,68
+605,ditch,B44,Predator Exclusion,2,44,24,0,21,0,89
+606,ditch,B45,Predator Exclusion,2,75,0,0,-8,0,67
+607,construction,B18,Control,2,40,12,8,24,2,84
+608,ditch,B43,Pollinator Exclusion,2,0,57,0,20,1,77
+609,ditch,B42,Control,2,86,7,0,4,34,97
+610,rapseed,B17,Pollinator Exclusion,2,0,50,0,23,0,73
+611,ditch,B43,Control,2,82,20,0,3,0,105
+612,construction,B35,Predator Model,2,0,68,0,13,0,81
+613,rapseed,B30,Control,2,43,20,11,-7,0,67
+614,ditch,B37,Predator Model,2,36,21,5,7,0,69
+615,construction,B10,Control,2,74,22,1,2,0,99
